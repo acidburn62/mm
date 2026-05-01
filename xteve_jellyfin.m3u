@@ -1,1277 +1,1277 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="FRANCE",TF1.fr
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="France",TF1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936753&extension=ts&play_token=cq7ZJ7rngV
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="FRANCE",TF1.fr
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="France",TF1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936754&extension=ts&play_token=0r7gz9OKSN
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="FRANCE",TF1.fr
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1.fr" tvg-logo="" group-title="France",TF1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936755&extension=ts&play_token=J8XH0t9SbZ
-#EXTINF:0,┃FR┃ TF1 PLUS 1 FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ TF1 PLUS 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936768&extension=ts&play_token=0H4A0vdJnM
-#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="FRANCE",France 2.fr
+#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="France",France 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936756&extension=ts&play_token=Zv6QMupbn2
-#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="FRANCE",France 2.fr
+#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="France",France 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936757&extension=ts&play_token=8c8fRj6qB7
-#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="FRANCE",France 2.fr
+#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2.fr" tvg-logo="" group-title="France",France 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936758&extension=ts&play_token=0lfzSkNvRP
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936759&extension=ts&play_token=AOFH1oXyp8
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936760&extension=ts&play_token=Cn4aUjZPKI
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936761&extension=ts&play_token=ngP3BPEzRS
-#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="FRANCE",France 4.fr
+#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="France",France 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936762&extension=ts&play_token=dAltf9ntJX
-#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="FRANCE",France 4.fr
+#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="France",France 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936763&extension=ts&play_token=QhjnIjwlz7
-#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="FRANCE",France 4.fr
+#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4.fr" tvg-logo="" group-title="France",France 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936764&extension=ts&play_token=PfneOei5e7
-#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="FRANCE",France 5.fr
+#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="France",France 5.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936765&extension=ts&play_token=5gqXCCZzM7
-#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="FRANCE",France 5.fr
+#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="France",France 5.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936766&extension=ts&play_token=6aOOAV0UxC
-#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="FRANCE",France 5.fr
+#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5.fr" tvg-logo="" group-title="France",France 5.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936767&extension=ts&play_token=aUbCE9nNnY
-#EXTINF:0,┃FR┃ STAR ACADEMY FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ STAR ACADEMY FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936769&extension=ts&play_token=lREdSMMJYf
-#EXTINF:0,┃FR┃ STAR ACADEMY HD
+#EXTINF:-1 group-title="Autres",┃FR┃ STAR ACADEMY HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936770&extension=ts&play_token=cQwRNSisAw
-#EXTINF:0,┃FR┃ STAR ACADEMY
+#EXTINF:-1 group-title="Autres",┃FR┃ STAR ACADEMY
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936771&extension=ts&play_token=HXuHMs0Zv5
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="FRANCE",6ter.fr
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="France",6ter.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936772&extension=ts&play_token=knVYc3WdmN
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="FRANCE",6ter.fr
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="France",6ter.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936773&extension=ts&play_token=jWSQdxTM5L
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="FRANCE",6ter.fr
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter.fr" tvg-logo="" group-title="France",6ter.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936774&extension=ts&play_token=z1OaTNpOyh
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="FRANCE",M6.fr
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="France",M6.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936775&extension=ts&play_token=qQRlOY1Elj
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="FRANCE",M6.fr
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="France",M6.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936776&extension=ts&play_token=nDlvqExFgw
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="FRANCE",M6.fr
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6.fr" tvg-logo="" group-title="France",M6.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936777&extension=ts&play_token=G1VoCbP25F
-#EXTINF:-1 tvg-id="RTP Internacional.fr" tvg-name="RTP Internacional.fr" tvg-logo="" group-title="FRANCE",RTP Internacional.fr
+#EXTINF:-1 tvg-id="RTP Internacional.fr" tvg-name="RTP Internacional.fr" tvg-logo="" group-title="France",RTP Internacional.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936778&extension=ts&play_token=E5EV5OvrrN
-#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="FRANCE",TF1 Series Films.fr
+#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="France",TF1 Series Films.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936779&extension=ts&play_token=IB2dsCa1PM
-#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="FRANCE",TF1 Series Films.fr
+#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="France",TF1 Series Films.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936780&extension=ts&play_token=OM8MIwelIc
-#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="FRANCE",TF1 Series Films.fr
+#EXTINF:-1 tvg-id="TF1 Series Films.fr" tvg-name="TF1 Series Films.fr" tvg-logo="" group-title="France",TF1 Series Films.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936781&extension=ts&play_token=EFfuaZTm4k
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="FRANCE",TFX.fr
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="France",TFX.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936782&extension=ts&play_token=F2UuS0v0BP
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="FRANCE",TFX.fr
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="France",TFX.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936783&extension=ts&play_token=xO2LTp6Je4
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="FRANCE",TFX.fr
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX.fr" tvg-logo="" group-title="France",TFX.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936784&extension=ts&play_token=1klFXrROxd
-#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="FRANCE",RTL 9.fr
+#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="France",RTL 9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936785&extension=ts&play_token=qrRPCcvhrx
-#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="FRANCE",RTL 9.fr
+#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="France",RTL 9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936786&extension=ts&play_token=nePYJ1Bdsa
-#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="FRANCE",RTL 9.fr
+#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="RTL 9.fr" tvg-logo="" group-title="France",RTL 9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936787&extension=ts&play_token=PrGDdPEzpM
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="FRANCE",Teva.fr
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="France",Teva.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936788&extension=ts&play_token=0vKOICQaN8
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="FRANCE",Teva.fr
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="France",Teva.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936789&extension=ts&play_token=Jv7Bub5sSg
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="FRANCE",Teva.fr
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Teva.fr" tvg-logo="" group-title="France",Teva.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936790&extension=ts&play_token=Hgv0RbgMcb
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="FRANCE",TMC.fr
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="France",TMC.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936791&extension=ts&play_token=DWNNh4rP3U
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="FRANCE",TMC.fr
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="France",TMC.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936792&extension=ts&play_token=HCViqCs7zr
-#EXTINF:0,┃FR┃ TMC PLUS 1 FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ TMC PLUS 1 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936793&extension=ts&play_token=0ELz2bJ4xd
-#EXTINF:0,┃FR┃ TMC PLUS 1 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ TMC PLUS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936794&extension=ts&play_token=gnTxcpOj9a
-#EXTINF:0,┃FR┃ TMC PLUS 1
+#EXTINF:-1 group-title="Autres",┃FR┃ TMC PLUS 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936795&extension=ts&play_token=kz42TgP7tM
-#EXTINF:0,┃FR┃ C8 FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ C8 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936796&extension=ts&play_token=CGd9lj3qCk
-#EXTINF:0,┃FR┃ C8 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ C8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936797&extension=ts&play_token=YdkYx6ekL8
-#EXTINF:0,┃FR┃ C8
+#EXTINF:-1 group-title="Autres",┃FR┃ C8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936798&extension=ts&play_token=AGmNWRICcM
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="FRANCE",W9.fr
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="France",W9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936799&extension=ts&play_token=UWzakn1jOV
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="FRANCE",W9.fr
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="France",W9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936800&extension=ts&play_token=jVwPWh21Lj
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="FRANCE",W9.fr
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9.fr" tvg-logo="" group-title="France",W9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936801&extension=ts&play_token=i9yfsHRULz
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="FRANCE",Arte.fr
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="France",Arte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936802&extension=ts&play_token=XBClnUrJCW
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="FRANCE",Arte.fr
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="France",Arte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936803&extension=ts&play_token=OTCnqdgp7p
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="FRANCE",Arte.fr
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte.fr" tvg-logo="" group-title="France",Arte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936804&extension=ts&play_token=8nWBCFbZ3M
-#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="FRANCE",Novelas TV.fr
+#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="France",Novelas TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936805&extension=ts&play_token=jkQJZTZQsU
-#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="FRANCE",Novelas TV.fr
+#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="France",Novelas TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936806&extension=ts&play_token=tcGvS7EiDx
-#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="FRANCE",Novelas TV.fr
+#EXTINF:-1 tvg-id="Novelas TV.fr" tvg-name="Novelas TV.fr" tvg-logo="" group-title="France",Novelas TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936807&extension=ts&play_token=SFBn0ZEbnt
-#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="FRANCE",CSTAR.fr
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="France",CSTAR.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936808&extension=ts&play_token=MTRJeMVg1M
-#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="FRANCE",CSTAR.fr
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="France",CSTAR.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936809&extension=ts&play_token=ZL8FczgLiy
-#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="FRANCE",CSTAR.fr
+#EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR.fr" tvg-logo="" group-title="France",CSTAR.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936810&extension=ts&play_token=4IDWrfPAce
-#EXTINF:0,┃FR┃ IDF 1 FHD
+#EXTINF:-1 tvg-id="SRF 1.fr" tvg-name="SRF 1.fr" tvg-logo="" group-title="France",SRF 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936811&extension=ts&play_token=Q0i19D3EoZ
-#EXTINF:0,┃FR┃ IDF 1 HD
+#EXTINF:-1 tvg-id="SRF 1.fr" tvg-name="SRF 1.fr" tvg-logo="" group-title="France",SRF 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936812&extension=ts&play_token=oNYuJAODYp
-#EXTINF:0,┃FR┃ IDF 1
+#EXTINF:-1 tvg-id="SRF 1.fr" tvg-name="SRF 1.fr" tvg-logo="" group-title="France",SRF 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936813&extension=ts&play_token=WbxAtAEnAD
-#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="FRANCE",Olympia TV.fr
+#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="France",Olympia TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936814&extension=ts&play_token=IwNLHL1Z4H
-#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="FRANCE",Olympia TV.fr
+#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="France",Olympia TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936815&extension=ts&play_token=lHMnVb7Xbg
-#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="FRANCE",Olympia TV.fr
+#EXTINF:-1 tvg-id="Olympia TV.fr" tvg-name="Olympia TV.fr" tvg-logo="" group-title="France",Olympia TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936816&extension=ts&play_token=Ircgfr2WPq
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936817&extension=ts&play_token=qwIEb8GnM2
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936818&extension=ts&play_token=UdMOeTOuow
-#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="FRANCE",France 3.fr
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3.fr" tvg-logo="" group-title="France",France 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936819&extension=ts&play_token=RBBJMBFl4H
-#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="FRANCE",La Chaîne Meteo.fr
+#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="France",La Chaîne Meteo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936820&extension=ts&play_token=DHfspir6pq
-#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="FRANCE",La Chaîne Meteo.fr
+#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="France",La Chaîne Meteo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936821&extension=ts&play_token=Ds4lufcALe
-#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="FRANCE",La Chaîne Meteo.fr
+#EXTINF:-1 tvg-id="La Chaîne Meteo.fr" tvg-name="La Chaîne Meteo.fr" tvg-logo="" group-title="France",La Chaîne Meteo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936822&extension=ts&play_token=xI6A4rE9qc
-#EXTINF:0,┃FR┃ ONE TV FHD
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936827&extension=ts&play_token=cTBt7SnLZP
-#EXTINF:0,┃FR┃ ONE TV
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936828&extension=ts&play_token=snmD3CuqWl
-#EXTINF:-1 tvg-id="TebeSud.fr" tvg-name="TebeSud.fr" tvg-logo="" group-title="FRANCE",TebeSud.fr
+#EXTINF:-1 tvg-id="TebeSud.fr" tvg-name="TebeSud.fr" tvg-logo="" group-title="France",TebeSud.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936823&extension=ts&play_token=2Fj75lc8Cs
-#EXTINF:-1 tvg-id="Tebeo.fr" tvg-name="Tebeo.fr" tvg-logo="" group-title="FRANCE",Tebeo.fr
+#EXTINF:-1 tvg-id="Tebeo.fr" tvg-name="Tebeo.fr" tvg-logo="" group-title="France",Tebeo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936824&extension=ts&play_token=M8JhofIWVK
-#EXTINF:0,┃FR┃ SQOOL TV FHD
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="France",OLTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936825&extension=ts&play_token=9H8erMs0wX
-#EXTINF:0,┃FR┃ TVM3 FHD
+#EXTINF:-1 tvg-id="VTM3.fr" tvg-name="VTM3.fr" tvg-logo="" group-title="France",VTM3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936826&extension=ts&play_token=IhB33QkY5d
-#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM.fr" tvg-logo="" group-title="FRANCE",MCM.fr
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM.fr" tvg-logo="" group-title="France",MCM.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936829&extension=ts&play_token=naYtuWuzcF
-#EXTINF:-1 tvg-id="MCM Top.fr" tvg-name="MCM Top.fr" tvg-logo="" group-title="FRANCE",MCM Top.fr
+#EXTINF:-1 tvg-id="MCM Top.fr" tvg-name="MCM Top.fr" tvg-logo="" group-title="France",MCM Top.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936830&extension=ts&play_token=M2tzhDvfCC
-#EXTINF:-1 tvg-id="RFM TV.fr" tvg-name="RFM TV.fr" tvg-logo="" group-title="FRANCE",RFM TV.fr
+#EXTINF:-1 tvg-id="RFM TV.fr" tvg-name="RFM TV.fr" tvg-logo="" group-title="France",RFM TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936831&extension=ts&play_token=sf1QLsrOQ6
-#EXTINF:-1 tvg-id="MGG TV.fr" tvg-name="MGG TV.fr" tvg-logo="" group-title="FRANCE",MGG TV.fr
+#EXTINF:-1 tvg-id="MGG TV.fr" tvg-name="MGG TV.fr" tvg-logo="" group-title="France",MGG TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936832&extension=ts&play_token=vbnYN1Tou6
-#EXTINF:-1 tvg-id="TVPI.fr" tvg-name="TVPI.fr" tvg-logo="" group-title="FRANCE",TVPI.fr
+#EXTINF:-1 tvg-id="TVPI.fr" tvg-name="TVPI.fr" tvg-logo="" group-title="France",TVPI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936833&extension=ts&play_token=KYD5JeVUIP
-#EXTINF:0,┃FR┃ ASTV FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ ASTV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936834&extension=ts&play_token=Gy92BH3wmv
-#EXTINF:-1 tvg-id="TV Tours.fr" tvg-name="TV Tours.fr" tvg-logo="" group-title="FRANCE",TV Tours.fr
+#EXTINF:-1 tvg-id="TV Tours.fr" tvg-name="TV Tours.fr" tvg-logo="" group-title="France",TV Tours.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936835&extension=ts&play_token=7RmE0qr6XK
-#EXTINF:0,┃FR┃ TVR FHD
+#EXTINF:-1 tvg-id="TVE.fr" tvg-name="TVE.fr" tvg-logo="" group-title="France",TVE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936836&extension=ts&play_token=Dz0tjnNTwe
-#EXTINF:0,┃FR┃ TL7
+#EXTINF:-1 tvg-id="RTL.fr" tvg-name="RTL.fr" tvg-logo="" group-title="France",RTL.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936837&extension=ts&play_token=bN4RUbqyfY
-#EXTINF:0,┃FR┃ TOP SANTE TV FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ TOP SANTE TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936838&extension=ts&play_token=jY2KUNtwT3
-#EXTINF:-1 tvg-id="Tele Grenoble Isère.fr" tvg-name="Tele Grenoble Isère.fr" tvg-logo="" group-title="FRANCE",Tele Grenoble Isère.fr
+#EXTINF:-1 tvg-id="Tele Grenoble Isère.fr" tvg-name="Tele Grenoble Isère.fr" tvg-logo="" group-title="France",Tele Grenoble Isère.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936839&extension=ts&play_token=V60biwrywV
-#EXTINF:0,┃FR┃ VIA OCCITANIE TOULOUSE FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ VIA OCCITANIE TOULOUSE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936840&extension=ts&play_token=4RmUmumGLn
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Weo.fr" tvg-logo="" group-title="FRANCE",Weo.fr
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="Weo.fr" tvg-logo="" group-title="France",Weo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936841&extension=ts&play_token=NZ2zQpUbwO
-#EXTINF:0,┃FR┃ WEO PICARDIE FHD
+#EXTINF:-1 tvg-id="France 3 Picardie.fr" tvg-name="France 3 Picardie.fr" tvg-logo="" group-title="France",France 3 Picardie.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936842&extension=ts&play_token=NAvJGbNL6K
-#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="FRANCE",Warner TV.fr
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936843&extension=ts&play_token=VgXKwSmWl3
-#EXTINF:0,┃FR┃ MANDARIN TV FHD
+#EXTINF:-1 tvg-id="Demain TV.fr" tvg-name="Demain TV.fr" tvg-logo="" group-title="France",Demain TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936844&extension=ts&play_token=pnIxLbXc13
-#EXTINF:0,┃FR┃ ZOUK TV FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ ZOUK TV FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936845&extension=ts&play_token=mSQzvMnXmC
-#EXTINF:-1 tvg-id="Luxe TV.fr" tvg-name="Luxe TV.fr" tvg-logo="" group-title="FRANCE",Luxe TV.fr
+#EXTINF:-1 tvg-id="Luxe TV.fr" tvg-name="Luxe TV.fr" tvg-logo="" group-title="France",Luxe TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936846&extension=ts&play_token=zzlRbw6Rk7
-#EXTINF:-1 tvg-id="Lucky Jack.fr" tvg-name="Lucky Jack.fr" tvg-logo="" group-title="FRANCE",Lucky Jack.fr
+#EXTINF:-1 tvg-id="Lucky Jack.fr" tvg-name="Lucky Jack.fr" tvg-logo="" group-title="France",Lucky Jack.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936847&extension=ts&play_token=bUpAdWwagh
-#EXTINF:0,┃FR┃ PITCHOUN
+#EXTINF:-1 group-title="Autres",┃FR┃ PITCHOUN
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936848&extension=ts&play_token=QXr7iNCock
-#EXTINF:0,┃FR┃ MAISON ET TRAVAUX FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ MAISON ET TRAVAUX FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936849&extension=ts&play_token=wAVqyrkke7
-#EXTINF:0,┃FR┃ IMEARTH FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ IMEARTH FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936850&extension=ts&play_token=FP9jS51oUo
-#EXTINF:0,┃FR┃ GOURMAND TV FHD
+#EXTINF:-1 tvg-id="Demain TV.fr" tvg-name="Demain TV.fr" tvg-logo="" group-title="France",Demain TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936851&extension=ts&play_token=AkEX7HjZrM
-#EXTINF:0,┃FR┃ BIP TV FHD
+#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="France",BFM TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936852&extension=ts&play_token=wjy6nfWDIj
-#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong.fr" tvg-logo="" group-title="FRANCE",Gong.fr
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong.fr" tvg-logo="" group-title="France",Gong.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936854&extension=ts&play_token=08b3NTfqTw
-#EXTINF:-1 tvg-id="Gong Max.fr" tvg-name="Gong Max.fr" tvg-logo="" group-title="FRANCE",Gong Max.fr
+#EXTINF:-1 tvg-id="Gong Max.fr" tvg-name="Gong Max.fr" tvg-logo="" group-title="France",Gong Max.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936853&extension=ts&play_token=B0oVATdFmF
-#EXTINF:0,┃FR┃ CGTN HD
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936855&extension=ts&play_token=AQMiAlLD04
-#EXTINF:0,┃FR┃ TAHITI NUI HD
+#EXTINF:-1 group-title="Autres",┃FR┃ TAHITI NUI HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936856&extension=ts&play_token=XYiXKcU9EY
-#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="FRANCE",Canal+.fr
+#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="France",Canal+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936869&extension=ts&play_token=xAUyQkwFcn
-#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="FRANCE",Canal+.fr
+#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="France",Canal+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936870&extension=ts&play_token=THQo6MG7JR
-#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="FRANCE",Canal+.fr
+#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+.fr" tvg-logo="" group-title="France",Canal+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936871&extension=ts&play_token=j3DyTn43Ax
-#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="FRANCE",Canal+ Cinema.fr
+#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="France",Canal+ Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936874&extension=ts&play_token=N110YmpcRO
-#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="FRANCE",Canal+ Cinema.fr
+#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="France",Canal+ Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936875&extension=ts&play_token=7cHxfzHYSt
-#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="FRANCE",Canal+ Cinema.fr
+#EXTINF:-1 tvg-id="Canal+ Cinema.fr" tvg-name="Canal+ Cinema.fr" tvg-logo="" group-title="France",Canal+ Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936876&extension=ts&play_token=oISaDjN0P5
-#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="FRANCE",Canal+ Live.fr
+#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="France",Canal+ Live.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936877&extension=ts&play_token=Dys5x0aleK
-#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="FRANCE",Canal+ Live.fr
+#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="France",Canal+ Live.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936878&extension=ts&play_token=cu8u2Cs2hT
-#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="FRANCE",Canal+ Live.fr
+#EXTINF:-1 tvg-id="Canal+ Live.fr" tvg-name="Canal+ Live.fr" tvg-logo="" group-title="France",Canal+ Live.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936879&extension=ts&play_token=4MwEiNO22j
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936872&extension=ts&play_token=d99m1tw4hH
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936873&extension=ts&play_token=AiN8R2zI54
-#EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" tvg-name="Canal+ Grand Ecran.fr" tvg-logo="" group-title="FRANCE",Canal+ Grand Ecran.fr
+#EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" tvg-name="Canal+ Grand Ecran.fr" tvg-logo="" group-title="France",Canal+ Grand Ecran.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936880&extension=ts&play_token=Jbn3Ys9q4R
-#EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" tvg-name="Canal+ Grand Ecran.fr" tvg-logo="" group-title="FRANCE",Canal+ Grand Ecran.fr
+#EXTINF:-1 tvg-id="Canal+ Grand Ecran.fr" tvg-name="Canal+ Grand Ecran.fr" tvg-logo="" group-title="France",Canal+ Grand Ecran.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936881&extension=ts&play_token=LexFAoRPuK
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="FRANCE",Action.fr
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936882&extension=ts&play_token=Lw1aoFFFhB
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="FRANCE",Action.fr
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936884&extension=ts&play_token=Q0TZM5njH1
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="FRANCE",Action.fr
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936883&extension=ts&play_token=UgxXYwKQ8X
-#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="FRANCE",Cine+ Premier.fr
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936885&extension=ts&play_token=ThiBHBCKVw
-#EXTINF:-1 tvg-id="Cine+ Club.fr" tvg-name="Cine+ Club.fr" tvg-logo="" group-title="FRANCE",Cine+ Club.fr
+#EXTINF:-1 tvg-id="Cine+ Club.fr" tvg-name="Cine+ Club.fr" tvg-logo="" group-title="France",Cine+ Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936886&extension=ts&play_token=WG6r2eZBLr
-#EXTINF:-1 tvg-id="Cine+ Famiz.fr" tvg-name="Cine+ Famiz.fr" tvg-logo="" group-title="FRANCE",Cine+ Famiz.fr
+#EXTINF:-1 tvg-id="Cine+ Famiz.fr" tvg-name="Cine+ Famiz.fr" tvg-logo="" group-title="France",Cine+ Famiz.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936887&extension=ts&play_token=7INk6M5ZU2
-#EXTINF:-1 tvg-id="Cine+ Emotion.fr" tvg-name="Cine+ Emotion.fr" tvg-logo="" group-title="FRANCE",Cine+ Emotion.fr
+#EXTINF:-1 tvg-id="Cine+ Emotion.fr" tvg-name="Cine+ Emotion.fr" tvg-logo="" group-title="France",Cine+ Emotion.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936888&extension=ts&play_token=m41IilXSpD
-#EXTINF:-1 tvg-id="Cine+ Frisson.fr" tvg-name="Cine+ Frisson.fr" tvg-logo="" group-title="FRANCE",Cine+ Frisson.fr
+#EXTINF:-1 tvg-id="Cine+ Frisson.fr" tvg-name="Cine+ Frisson.fr" tvg-logo="" group-title="France",Cine+ Frisson.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936889&extension=ts&play_token=sS6xAOJMSo
-#EXTINF:-1 tvg-id="Cine+ Classic.fr" tvg-name="Cine+ Classic.fr" tvg-logo="" group-title="FRANCE",Cine+ Classic.fr
+#EXTINF:-1 tvg-id="Cine+ Classic.fr" tvg-name="Cine+ Classic.fr" tvg-logo="" group-title="France",Cine+ Classic.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936890&extension=ts&play_token=rvwJq5igsK
-#EXTINF:0,┃FR┃ PARAMOUNT CHANNEL FHD
+#EXTINF:-1 tvg-id="Paramount Network.fr" tvg-name="Paramount Network.fr" tvg-logo="" group-title="France",Paramount Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936891&extension=ts&play_token=2s1dzrkeu7
-#EXTINF:0,┃FR┃ PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="Paramount Network.fr" tvg-name="Paramount Network.fr" tvg-logo="" group-title="France",Paramount Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936892&extension=ts&play_token=oOtbIdC8Ip
-#EXTINF:0,┃FR┃ PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="Paramount Network.fr" tvg-name="Paramount Network.fr" tvg-logo="" group-title="France",Paramount Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936893&extension=ts&play_token=KCcTnDUYhV
-#EXTINF:-1 tvg-id="Paramount Network Decale.fr" tvg-name="Paramount Network Decale.fr" tvg-logo="" group-title="FRANCE",Paramount Network Decale.fr
+#EXTINF:-1 tvg-id="Paramount Network Decale.fr" tvg-name="Paramount Network Decale.fr" tvg-logo="" group-title="France",Paramount Network Decale.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936894&extension=ts&play_token=7EzjqxpUwB
-#EXTINF:-1 tvg-id="Paramount Network Decale.fr" tvg-name="Paramount Network Decale.fr" tvg-logo="" group-title="FRANCE",Paramount Network Decale.fr
+#EXTINF:-1 tvg-id="Paramount Network Decale.fr" tvg-name="Paramount Network Decale.fr" tvg-logo="" group-title="France",Paramount Network Decale.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936895&extension=ts&play_token=9KGgJnmySV
-#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="FRANCE",TCM Cinema.fr
+#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="France",TCM Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936896&extension=ts&play_token=7qxXIp4e6k
-#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="FRANCE",TCM Cinema.fr
+#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="France",TCM Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936897&extension=ts&play_token=QlbvmGdyp9
-#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="FRANCE",TCM Cinema.fr
+#EXTINF:-1 tvg-id="TCM Cinema.fr" tvg-name="TCM Cinema.fr" tvg-logo="" group-title="France",TCM Cinema.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936898&extension=ts&play_token=ZjIvPgYaiR
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="FRANCE",MTV.fr
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="France",MTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936937&extension=ts&play_token=63kpqHiLrW
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="FRANCE",MTV.fr
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="France",MTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936938&extension=ts&play_token=GpOsGvHnsB
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="FRANCE",MTV.fr
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV.fr" tvg-logo="" group-title="France",MTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936939&extension=ts&play_token=Y7ep9e8z67
-#EXTINF:0,┃FR┃ E! ENTERTAINMENT FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ E! ENTERTAINMENT FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936931&extension=ts&play_token=tijrXiMdzN
-#EXTINF:0,┃FR┃ E! ENTERTAINMENT HD
+#EXTINF:-1 group-title="Autres",┃FR┃ E! ENTERTAINMENT HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936932&extension=ts&play_token=WkifDwO2a9
-#EXTINF:0,┃FR┃ E! ENTERTAINMENT
+#EXTINF:-1 group-title="Autres",┃FR┃ E! ENTERTAINMENT
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936933&extension=ts&play_token=5WgmM1bHlJ
-#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="FRANCE",Comedy Central.fr
+#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="France",Comedy Central.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936925&extension=ts&play_token=d5CDbCRiAg
-#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="FRANCE",Comedy Central.fr
+#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="France",Comedy Central.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936926&extension=ts&play_token=A8kUrgwPxs
-#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="FRANCE",Comedy Central.fr
+#EXTINF:-1 tvg-id="Comedy Central.fr" tvg-name="Comedy Central.fr" tvg-logo="" group-title="France",Comedy Central.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936927&extension=ts&play_token=nCG8Dqze4d
-#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="FRANCE",Polar+.fr
+#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="France",Polar+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936899&extension=ts&play_token=xxnbAJxxRV
-#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="FRANCE",Polar+.fr
+#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="France",Polar+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936900&extension=ts&play_token=KDyjS6fC1J
-#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="FRANCE",Polar+.fr
+#EXTINF:-1 tvg-id="Polar+.fr" tvg-name="Polar+.fr" tvg-logo="" group-title="France",Polar+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936901&extension=ts&play_token=8ZTovOJUkP
-#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="FRANCE",Serie Club.fr
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936902&extension=ts&play_token=vrXpoEo5sE
-#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="FRANCE",Serie Club.fr
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936903&extension=ts&play_token=rxU2NQPxwW
-#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="FRANCE",Serie Club.fr
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936904&extension=ts&play_token=hG7jMR1pKF
-#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="FRANCE",13eme RUE.fr
+#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="France",13eme RUE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936905&extension=ts&play_token=dwByzBoce0
-#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="FRANCE",13eme RUE.fr
+#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="France",13eme RUE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936906&extension=ts&play_token=AVDuAIqtNj
-#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="FRANCE",13eme RUE.fr
+#EXTINF:-1 tvg-id="13eme RUE.fr" tvg-name="13eme RUE.fr" tvg-logo="" group-title="France",13eme RUE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936907&extension=ts&play_token=n9gs764M1D
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="FRANCE",Syfy.fr
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="France",Syfy.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936908&extension=ts&play_token=3TfRsfcaz1
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="FRANCE",Syfy.fr
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="France",Syfy.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936909&extension=ts&play_token=gGD3UZDoRN
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="FRANCE",Syfy.fr
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy.fr" tvg-logo="" group-title="France",Syfy.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936910&extension=ts&play_token=gFCa7FUF9p
-#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="FRANCE",TV Breizh.fr
+#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="France",TV Breizh.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936911&extension=ts&play_token=4178Cfcr2z
-#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="FRANCE",TV Breizh.fr
+#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="France",TV Breizh.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936912&extension=ts&play_token=qy1ZP81FiN
-#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="FRANCE",TV Breizh.fr
+#EXTINF:-1 tvg-id="TV Breizh.fr" tvg-name="TV Breizh.fr" tvg-logo="" group-title="France",TV Breizh.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936913&extension=ts&play_token=daCVZISC94
-#EXTINF:0,┃FR┃ NRJ 12 FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ NRJ 12 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936914&extension=ts&play_token=P4OzhhvayS
-#EXTINF:0,┃FR┃ NRJ 12 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ NRJ 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936915&extension=ts&play_token=oL3OuZnKxA
-#EXTINF:0,┃FR┃ NRJ 12
+#EXTINF:-1 group-title="Autres",┃FR┃ NRJ 12
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936916&extension=ts&play_token=pnczDXITl8
-#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="FRANCE",RMC Story.fr
+#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="France",RMC Story.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936917&extension=ts&play_token=vsVDpV0Bui
-#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="FRANCE",RMC Story.fr
+#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="France",RMC Story.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936918&extension=ts&play_token=u5fDE3HmRs
-#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="FRANCE",RMC Story.fr
+#EXTINF:-1 tvg-id="RMC Story.fr" tvg-name="RMC Story.fr" tvg-logo="" group-title="France",RMC Story.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936919&extension=ts&play_token=OQ8boEqCAK
-#EXTINF:0,┃FR┃ CHERIE 25 FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ CHERIE 25 FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936920&extension=ts&play_token=GJANEvMF2h
-#EXTINF:0,┃FR┃ CHERIE 25 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ CHERIE 25 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936921&extension=ts&play_token=WU6VoWuAHk
-#EXTINF:0,┃FR┃ CHERIE 25
+#EXTINF:-1 group-title="Autres",┃FR┃ CHERIE 25
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936922&extension=ts&play_token=6KJ9eMSl6g
-#EXTINF:-1 tvg-id="Comedie+.fr" tvg-name="Comedie+.fr" tvg-logo="" group-title="FRANCE",Comedie+.fr
+#EXTINF:-1 tvg-id="Comedie+.fr" tvg-name="Comedie+.fr" tvg-logo="" group-title="France",Comedie+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936923&extension=ts&play_token=HYr5VEi19N
-#EXTINF:-1 tvg-id="Comedie+.fr" tvg-name="Comedie+.fr" tvg-logo="" group-title="FRANCE",Comedie+.fr
+#EXTINF:-1 tvg-id="Comedie+.fr" tvg-name="Comedie+.fr" tvg-logo="" group-title="France",Comedie+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936924&extension=ts&play_token=MWTde7sgZk
-#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="FRANCE",Paris Première.fr
+#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="France",Paris Première.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936928&extension=ts&play_token=oGUg8yo2mh
-#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="FRANCE",Paris Première.fr
+#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="France",Paris Première.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936929&extension=ts&play_token=dQBmMrtCZP
-#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="FRANCE",Paris Première.fr
+#EXTINF:-1 tvg-id="Paris Première.fr" tvg-name="Paris Première.fr" tvg-logo="" group-title="France",Paris Première.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936930&extension=ts&play_token=cwXz2zlTKD
-#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="FRANCE",Warner TV.fr
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936934&extension=ts&play_token=lPPPFWPhPA
-#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="FRANCE",Warner TV.fr
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936935&extension=ts&play_token=GfEs5EhWPb
-#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="FRANCE",Warner TV.fr
+#EXTINF:-1 tvg-id="Warner TV.fr" tvg-name="Warner TV.fr" tvg-logo="" group-title="France",Warner TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936936&extension=ts&play_token=hw6lpcj5UY
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="FRANCE",AB1.fr
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="France",AB1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936940&extension=ts&play_token=BhnteSL2kF
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="FRANCE",AB1.fr
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="France",AB1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936941&extension=ts&play_token=3vOnAXAHKk
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="FRANCE",AB1.fr
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1.fr" tvg-logo="" group-title="France",AB1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936942&extension=ts&play_token=B3VitIPhWx
-#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="FRANCE",AB 3.fr
+#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="France",AB 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936943&extension=ts&play_token=rkA3Rk99ZF
-#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="FRANCE",AB 3.fr
+#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="France",AB 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936944&extension=ts&play_token=5gEHaEhCNf
-#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="FRANCE",AB 3.fr
+#EXTINF:-1 tvg-id="AB 3.fr" tvg-name="AB 3.fr" tvg-logo="" group-title="France",AB 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936945&extension=ts&play_token=EQoYjEVbtT
-#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="FRANCE",TV5MONDE.fr
+#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="France",TV5MONDE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936946&extension=ts&play_token=nTTPksmNO6
-#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="FRANCE",TV5MONDE.fr
+#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="France",TV5MONDE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936947&extension=ts&play_token=HyfYyqYavE
-#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="FRANCE",TV5MONDE.fr
+#EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE.fr" tvg-logo="" group-title="France",TV5MONDE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936948&extension=ts&play_token=ANJlumxAdz
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="FRANCE",BET.fr
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="France",BET.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936950&extension=ts&play_token=ryIFhNvqra
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="FRANCE",BET.fr
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="France",BET.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936951&extension=ts&play_token=VczE1mXHNf
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="FRANCE",BET.fr
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET.fr" tvg-logo="" group-title="France",BET.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936952&extension=ts&play_token=ycOp0lVST3
-#EXTINF:-1 tvg-id="Nollywood TV.fr" tvg-name="Nollywood TV.fr" tvg-logo="" group-title="FRANCE",Nollywood TV.fr
+#EXTINF:-1 tvg-id="Nollywood TV.fr" tvg-name="Nollywood TV.fr" tvg-logo="" group-title="France",Nollywood TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=936949&extension=ts&play_token=nlK4ySov9O
-#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="FRANCE",Canal+ KIDS.fr
+#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="France",Canal+ KIDS.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941692&extension=ts&play_token=5gEYEXLTvr
-#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="FRANCE",Canal+ KIDS.fr
+#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="France",Canal+ KIDS.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941693&extension=ts&play_token=cAC5b0zb41
-#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="FRANCE",Canal+ KIDS.fr
+#EXTINF:-1 tvg-id="Canal+ KIDS.fr" tvg-name="Canal+ KIDS.fr" tvg-logo="" group-title="France",Canal+ KIDS.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941694&extension=ts&play_token=WbdgYT7rmJ
-#EXTINF:-1 tvg-id="Disney Channel.fr" tvg-name="Disney Channel.fr" tvg-logo="" group-title="FRANCE",Disney Channel.fr
+#EXTINF:-1 tvg-id="Disney Channel.fr" tvg-name="Disney Channel.fr" tvg-logo="" group-title="France",Disney Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941695&extension=ts&play_token=uwlcnwN6Q2
-#EXTINF:-1 tvg-id="Disney Channel.fr" tvg-name="Disney Channel.fr" tvg-logo="" group-title="FRANCE",Disney Channel.fr
+#EXTINF:-1 tvg-id="Disney Channel.fr" tvg-name="Disney Channel.fr" tvg-logo="" group-title="France",Disney Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941696&extension=ts&play_token=T18ZgMy6mU
-#EXTINF:-1 tvg-id="Disney Channel +1.fr" tvg-name="Disney Channel +1.fr" tvg-logo="" group-title="FRANCE",Disney Channel +1.fr
+#EXTINF:-1 tvg-id="Disney Channel +1.fr" tvg-name="Disney Channel +1.fr" tvg-logo="" group-title="France",Disney Channel +1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941697&extension=ts&play_token=rALhqOzjCm
-#EXTINF:-1 tvg-id="Disney Channel +1.fr" tvg-name="Disney Channel +1.fr" tvg-logo="" group-title="FRANCE",Disney Channel +1.fr
+#EXTINF:-1 tvg-id="Disney Channel +1.fr" tvg-name="Disney Channel +1.fr" tvg-logo="" group-title="France",Disney Channel +1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941698&extension=ts&play_token=FC7NKgd6pe
-#EXTINF:-1 tvg-id="Disney Junior.fr" tvg-name="Disney Junior.fr" tvg-logo="" group-title="FRANCE",Disney Junior.fr
+#EXTINF:-1 tvg-id="Disney Junior.fr" tvg-name="Disney Junior.fr" tvg-logo="" group-title="France",Disney Junior.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941699&extension=ts&play_token=RK2oerv4ae
-#EXTINF:-1 tvg-id="Disney Junior.fr" tvg-name="Disney Junior.fr" tvg-logo="" group-title="FRANCE",Disney Junior.fr
+#EXTINF:-1 tvg-id="Disney Junior.fr" tvg-name="Disney Junior.fr" tvg-logo="" group-title="France",Disney Junior.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941700&extension=ts&play_token=H17DhIVqBr
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon.fr" tvg-logo="" group-title="FRANCE",Nickelodeon.fr
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon.fr" tvg-logo="" group-title="France",Nickelodeon.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941701&extension=ts&play_token=UxlszXDOqx
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon.fr" tvg-logo="" group-title="FRANCE",Nickelodeon.fr
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon.fr" tvg-logo="" group-title="France",Nickelodeon.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941702&extension=ts&play_token=2MrInHYHmq
-#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="FRANCE",Nickelodeon +1.fr
+#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="France",Nickelodeon +1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941703&extension=ts&play_token=fnNNIIDMOG
-#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="FRANCE",Nickelodeon +1.fr
+#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="France",Nickelodeon +1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941704&extension=ts&play_token=B71ucL5jG4
-#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="FRANCE",Nickelodeon +1.fr
+#EXTINF:-1 tvg-id="Nickelodeon +1.fr" tvg-name="Nickelodeon +1.fr" tvg-logo="" group-title="France",Nickelodeon +1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941705&extension=ts&play_token=M3TfvBt48j
-#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Teen.fr
+#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="France",Nickelodeon Teen.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941709&extension=ts&play_token=t4mDtWYMhg
-#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Teen.fr
+#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="France",Nickelodeon Teen.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941710&extension=ts&play_token=wdxSKibiXP
-#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Teen.fr
+#EXTINF:-1 tvg-id="Nickelodeon Teen.fr" tvg-name="Nickelodeon Teen.fr" tvg-logo="" group-title="France",Nickelodeon Teen.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941711&extension=ts&play_token=jHew8keXj8
-#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Junior.fr
+#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="France",Nickelodeon Junior.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941706&extension=ts&play_token=WK5R3eZqgE
-#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Junior.fr
+#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="France",Nickelodeon Junior.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941707&extension=ts&play_token=fW5yGSoW85
-#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="FRANCE",Nickelodeon Junior.fr
+#EXTINF:-1 tvg-id="Nickelodeon Junior.fr" tvg-name="Nickelodeon Junior.fr" tvg-logo="" group-title="France",Nickelodeon Junior.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941708&extension=ts&play_token=jvzx7Lj4h9
-#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="FRANCE",Cartoon Network.fr
+#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="France",Cartoon Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941712&extension=ts&play_token=3IvnvSWQHp
-#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="FRANCE",Cartoon Network.fr
+#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="France",Cartoon Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941713&extension=ts&play_token=AYEt3kP3nB
-#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="FRANCE",Cartoon Network.fr
+#EXTINF:-1 tvg-id="Cartoon Network.fr" tvg-name="Cartoon Network.fr" tvg-logo="" group-title="France",Cartoon Network.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941714&extension=ts&play_token=5J8Nvaie36
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="FRANCE",Boomerang.fr
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="France",Boomerang.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941716&extension=ts&play_token=D4aZgknkPu
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="FRANCE",Boomerang.fr
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="France",Boomerang.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941717&extension=ts&play_token=WPmB2MHt1s
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="FRANCE",Boomerang.fr
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang.fr" tvg-logo="" group-title="France",Boomerang.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941718&extension=ts&play_token=jCy1dVkyPM
-#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito.fr" tvg-logo="" group-title="FRANCE",Cartoonito.fr
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito.fr" tvg-logo="" group-title="France",Cartoonito.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941715&extension=ts&play_token=kkMDT9GSGm
-#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="FRANCE",Baby TV.fr
+#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="France",Baby TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941721&extension=ts&play_token=nuxDgIwiUE
-#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="FRANCE",Baby TV.fr
+#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="France",Baby TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941719&extension=ts&play_token=q9OH5McKak
-#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="FRANCE",Baby TV.fr
+#EXTINF:-1 tvg-id="Baby TV.fr" tvg-name="Baby TV.fr" tvg-logo="" group-title="France",Baby TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941720&extension=ts&play_token=qxWEij6ACN
-#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="FRANCE",Teletoon+.fr
+#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="France",Teletoon+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941727&extension=ts&play_token=Uxwcby0oaS
-#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="FRANCE",Teletoon+.fr
+#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="France",Teletoon+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941728&extension=ts&play_token=X1ZlMWMkOJ
-#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="FRANCE",Teletoon+.fr
+#EXTINF:-1 tvg-id="Teletoon+.fr" tvg-name="Teletoon+.fr" tvg-logo="" group-title="France",Teletoon+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941729&extension=ts&play_token=ygOean57pl
-#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="FRANCE",Teletoon+1.fr
+#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="France",Teletoon+1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941730&extension=ts&play_token=E4F7w6W92q
-#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="FRANCE",Teletoon+1.fr
+#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="France",Teletoon+1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941731&extension=ts&play_token=czav5R41hy
-#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="FRANCE",Teletoon+1.fr
+#EXTINF:-1 tvg-id="Teletoon+1.fr" tvg-name="Teletoon+1.fr" tvg-logo="" group-title="France",Teletoon+1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941732&extension=ts&play_token=FEfNJpgKrF
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="FRANCE",Tiji.fr
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="France",Tiji.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941724&extension=ts&play_token=FeEYmrYtY4
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="FRANCE",Tiji.fr
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="France",Tiji.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941725&extension=ts&play_token=0PKjfN8fFy
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="FRANCE",Tiji.fr
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji.fr" tvg-logo="" group-title="France",Tiji.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941726&extension=ts&play_token=WxeugZMOwV
-#EXTINF:-1 tvg-id="Canal J.fr" tvg-name="Canal J.fr" tvg-logo="" group-title="FRANCE",Canal J.fr
+#EXTINF:-1 tvg-id="Canal J.fr" tvg-name="Canal J.fr" tvg-logo="" group-title="France",Canal J.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941737&extension=ts&play_token=r6MewY9S2L
-#EXTINF:-1 tvg-id="Canal J.fr" tvg-name="Canal J.fr" tvg-logo="" group-title="FRANCE",Canal J.fr
+#EXTINF:-1 tvg-id="Canal J.fr" tvg-name="Canal J.fr" tvg-logo="" group-title="France",Canal J.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941738&extension=ts&play_token=K4wQEnOhh8
-#EXTINF:0,┃FR┃ BOING FHD
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong.fr" tvg-logo="" group-title="France",Gong.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941733&extension=ts&play_token=4uDvFbDW0A
-#EXTINF:0,┃FR┃ BOING HD
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong.fr" tvg-logo="" group-title="France",Gong.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941734&extension=ts&play_token=KgGnBaXkeH
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli.fr" tvg-logo="" group-title="FRANCE",Gulli.fr
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli.fr" tvg-logo="" group-title="France",Gulli.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941735&extension=ts&play_token=mpDL3EdsVY
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli.fr" tvg-logo="" group-title="FRANCE",Gulli.fr
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli.fr" tvg-logo="" group-title="France",Gulli.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941736&extension=ts&play_token=WZm3loCREt
-#EXTINF:-1 tvg-id="Piwi+.fr" tvg-name="Piwi+.fr" tvg-logo="" group-title="FRANCE",Piwi+.fr
+#EXTINF:-1 tvg-id="Piwi+.fr" tvg-name="Piwi+.fr" tvg-logo="" group-title="France",Piwi+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941722&extension=ts&play_token=jyKdyt9Sam
-#EXTINF:-1 tvg-id="Piwi+.fr" tvg-name="Piwi+.fr" tvg-logo="" group-title="FRANCE",Piwi+.fr
+#EXTINF:-1 tvg-id="Piwi+.fr" tvg-name="Piwi+.fr" tvg-logo="" group-title="France",Piwi+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941723&extension=ts&play_token=1yfKcmds2B
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="FRANCE",Mangas.fr
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="France",Mangas.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941739&extension=ts&play_token=4EwnCSUFRl
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="FRANCE",Mangas.fr
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="France",Mangas.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941740&extension=ts&play_token=FmORCjxLWr
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="FRANCE",Mangas.fr
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas.fr" tvg-logo="" group-title="France",Mangas.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941741&extension=ts&play_token=6x9XsgxUE1
-#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="FRANCE",J-One.fr
+#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="France",J-One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941745&extension=ts&play_token=q0R1h4wJbr
-#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="FRANCE",J-One.fr
+#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="France",J-One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941746&extension=ts&play_token=Zg9vfuIX5w
-#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="FRANCE",J-One.fr
+#EXTINF:-1 tvg-id="J-One.fr" tvg-name="J-One.fr" tvg-logo="" group-title="France",J-One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941747&extension=ts&play_token=ueXzkVK2qZ
-#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="FRANCE",Game One.fr
+#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="France",Game One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941742&extension=ts&play_token=FJM8BWOhjk
-#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="FRANCE",Game One.fr
+#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="France",Game One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941743&extension=ts&play_token=c2AT3gTBRY
-#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="FRANCE",Game One.fr
+#EXTINF:-1 tvg-id="Game One.fr" tvg-name="Game One.fr" tvg-logo="" group-title="France",Game One.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941744&extension=ts&play_token=XerYa5dZPB
-#EXTINF:0,┃FR┃ PLAY KIDS PAW PATROL HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY KIDS PAW PATROL HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942069&extension=ts&play_token=syiWwgEvdA
-#EXTINF:0,┃FR┃ PLAY KIDS PEPPA PIG HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY KIDS PEPPA PIG HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942066&extension=ts&play_token=NiJgbljvCL
-#EXTINF:0,┃FR┃ PLAY KIDS PJ MASQUE HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY KIDS PJ MASQUE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942067&extension=ts&play_token=KaIiTexV3w
-#EXTINF:0,┃FR┃ PLAY KIDS MASHA & MICHKA HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY KIDS MASHA & MICHKA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942068&extension=ts&play_token=A0JiSVRRPG
-#EXTINF:-1 tvg-id="Canal+ DOCS.fr" tvg-name="Canal+ DOCS.fr" tvg-logo="" group-title="FRANCE",Canal+ DOCS.fr
+#EXTINF:-1 tvg-id="Canal+ DOCS.fr" tvg-name="Canal+ DOCS.fr" tvg-logo="" group-title="France",Canal+ DOCS.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941630&extension=ts&play_token=U2xUWfuFOD
-#EXTINF:-1 tvg-id="Canal+ DOCS.fr" tvg-name="Canal+ DOCS.fr" tvg-logo="" group-title="FRANCE",Canal+ DOCS.fr
+#EXTINF:-1 tvg-id="Canal+ DOCS.fr" tvg-name="Canal+ DOCS.fr" tvg-logo="" group-title="France",Canal+ DOCS.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941631&extension=ts&play_token=46moY3hzFH
-#EXTINF:-1 tvg-id="Crime District.fr" tvg-name="Crime District.fr" tvg-logo="" group-title="FRANCE",Crime District.fr
+#EXTINF:-1 tvg-id="Crime District.fr" tvg-name="Crime District.fr" tvg-logo="" group-title="France",Crime District.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941628&extension=ts&play_token=ah1s3AbwYi
-#EXTINF:-1 tvg-id="Crime District.fr" tvg-name="Crime District.fr" tvg-logo="" group-title="FRANCE",Crime District.fr
+#EXTINF:-1 tvg-id="Crime District.fr" tvg-name="Crime District.fr" tvg-logo="" group-title="France",Crime District.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941629&extension=ts&play_token=6gH4b69Odr
-#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="FRANCE",National Geographic.fr
+#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="France",National Geographic.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941638&extension=ts&play_token=6Eb9aNctJE
-#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="FRANCE",National Geographic.fr
+#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="France",National Geographic.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941639&extension=ts&play_token=nv4mwR9ez4
-#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="FRANCE",National Geographic.fr
+#EXTINF:-1 tvg-id="National Geographic.fr" tvg-name="National Geographic.fr" tvg-logo="" group-title="France",National Geographic.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941640&extension=ts&play_token=msGpldBibe
-#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="FRANCE",Nat Geo Wild.fr
+#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="France",Nat Geo Wild.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941641&extension=ts&play_token=EUzVPdCS5j
-#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="FRANCE",Nat Geo Wild.fr
+#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="France",Nat Geo Wild.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941642&extension=ts&play_token=eXiWe8mlQH
-#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="FRANCE",Nat Geo Wild.fr
+#EXTINF:-1 tvg-id="Nat Geo Wild.fr" tvg-name="Nat Geo Wild.fr" tvg-logo="" group-title="France",Nat Geo Wild.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941643&extension=ts&play_token=ky6WtjIV4k
-#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="FRANCE",Discovery Channel.fr
+#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="France",Discovery Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941633&extension=ts&play_token=gqbKApMSTB
-#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="FRANCE",Discovery Channel.fr
+#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="France",Discovery Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941632&extension=ts&play_token=SuVGCfjKAz
-#EXTINF:0,┃FR┃ DISCOVERY ID FHD
+#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="France",Discovery Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941636&extension=ts&play_token=5lNVkJsZjm
-#EXTINF:0,┃FR┃ DISCOVERY ID HD
+#EXTINF:-1 tvg-id="Discovery Channel.fr" tvg-name="Discovery Channel.fr" tvg-logo="" group-title="France",Discovery Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941637&extension=ts&play_token=VXCMomUtZK
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="FRANCE",Histoire.fr
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="France",Histoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941644&extension=ts&play_token=hzYGQksO37
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="FRANCE",Histoire.fr
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="France",Histoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941645&extension=ts&play_token=NePT9Ocv1x
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="FRANCE",Histoire.fr
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire.fr" tvg-logo="" group-title="France",Histoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941646&extension=ts&play_token=yaZvtAqXe9
-#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="FRANCE",Toute LHistoire.fr
+#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="France",Toute LHistoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941647&extension=ts&play_token=CL3jK0wBQu
-#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="FRANCE",Toute LHistoire.fr
+#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="France",Toute LHistoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941648&extension=ts&play_token=DLPdoroCKm
-#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="FRANCE",Toute LHistoire.fr
+#EXTINF:-1 tvg-id="Toute LHistoire.fr" tvg-name="Toute LHistoire.fr" tvg-logo="" group-title="France",Toute LHistoire.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941649&extension=ts&play_token=UJcCgWC1Gs
-#EXTINF:0,┃FR┃ TLC FHD
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="France",TMC.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941635&extension=ts&play_token=RSYjfSgnmV
-#EXTINF:0,┃FR┃ TLC HD
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC.fr" tvg-logo="" group-title="France",TMC.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941634&extension=ts&play_token=FqsyoTnIC7
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="FRANCE",Trek.fr
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="France",Trek.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941658&extension=ts&play_token=vt6WxtLuXe
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="FRANCE",Trek.fr
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="France",Trek.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941659&extension=ts&play_token=bE75DsINrH
-#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="FRANCE",Trek.fr
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="Trek.fr" tvg-logo="" group-title="France",Trek.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941660&extension=ts&play_token=IOBOCif8Un
-#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="FRANCE",Planète+.fr
+#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="France",Planète+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941650&extension=ts&play_token=7GbH4bojnJ
-#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="FRANCE",Planète+.fr
+#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="France",Planète+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941651&extension=ts&play_token=hNCDbdZ7zU
-#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="FRANCE",Planète+.fr
+#EXTINF:-1 tvg-id="Planète+.fr" tvg-name="Planète+.fr" tvg-logo="" group-title="France",Planète+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941652&extension=ts&play_token=lmJBV9I89F
-#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="FRANCE",Planète+ Crime.fr
+#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="France",Planète+ Crime.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941655&extension=ts&play_token=WpyHk9eOMZ
-#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="FRANCE",Planète+ Crime.fr
+#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="France",Planète+ Crime.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941656&extension=ts&play_token=2NKUqPuGJX
-#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="FRANCE",Planète+ Crime.fr
+#EXTINF:-1 tvg-id="Planète+ Crime.fr" tvg-name="Planète+ Crime.fr" tvg-logo="" group-title="France",Planète+ Crime.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941657&extension=ts&play_token=jI9sVFULKw
-#EXTINF:-1 tvg-id="Planète+ Aventure.fr" tvg-name="Planète+ Aventure.fr" tvg-logo="" group-title="FRANCE",Planète+ Aventure.fr
+#EXTINF:-1 tvg-id="Planète+ Aventure.fr" tvg-name="Planète+ Aventure.fr" tvg-logo="" group-title="France",Planète+ Aventure.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941653&extension=ts&play_token=w7U0Ijfqwh
-#EXTINF:-1 tvg-id="Planète+ Aventure.fr" tvg-name="Planète+ Aventure.fr" tvg-logo="" group-title="FRANCE",Planète+ Aventure.fr
+#EXTINF:-1 tvg-id="Planète+ Aventure.fr" tvg-name="Planète+ Aventure.fr" tvg-logo="" group-title="France",Planète+ Aventure.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941654&extension=ts&play_token=WdCjLR4Ll8
-#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="FRANCE",Science and Vie TV.fr
+#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="France",Science and Vie TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941664&extension=ts&play_token=PAnrWoPx22
-#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="FRANCE",Science and Vie TV.fr
+#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="France",Science and Vie TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941665&extension=ts&play_token=0uUznazjnZ
-#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="FRANCE",Science and Vie TV.fr
+#EXTINF:-1 tvg-id="Science and Vie TV.fr" tvg-name="Science and Vie TV.fr" tvg-logo="" group-title="France",Science and Vie TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941666&extension=ts&play_token=xMCaJzYkgM
-#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="FRANCE",RMC Decouverte.fr
+#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="France",RMC Decouverte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941667&extension=ts&play_token=E2zALztNjt
-#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="FRANCE",RMC Decouverte.fr
+#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="France",RMC Decouverte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941668&extension=ts&play_token=tdum6Sguf1
-#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="FRANCE",RMC Decouverte.fr
+#EXTINF:-1 tvg-id="RMC Decouverte.fr" tvg-name="RMC Decouverte.fr" tvg-logo="" group-title="France",RMC Decouverte.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941669&extension=ts&play_token=HR3jcx369X
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="FRANCE",Seasons.fr
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="France",Seasons.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941661&extension=ts&play_token=yb2OoDAyCr
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="FRANCE",Seasons.fr
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="France",Seasons.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941662&extension=ts&play_token=TOqH8LhD2O
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="FRANCE",Seasons.fr
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons.fr" tvg-logo="" group-title="France",Seasons.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941663&extension=ts&play_token=29RrXePhow
-#EXTINF:0,┃FR┃ USHUAIA FHD
+#EXTINF:-1 tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV.fr" tvg-logo="" group-title="France",Ushuaïa TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941670&extension=ts&play_token=ZLp3D58ES0
-#EXTINF:0,┃FR┃ USHUAIA HD
+#EXTINF:-1 tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV.fr" tvg-logo="" group-title="France",Ushuaïa TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941671&extension=ts&play_token=oerNHuosIn
-#EXTINF:0,┃FR┃ USHUAIA
+#EXTINF:-1 tvg-id="Ushuaïa TV.fr" tvg-name="Ushuaïa TV.fr" tvg-logo="" group-title="France",Ushuaïa TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941672&extension=ts&play_token=WsOfa4QNwL
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="FRANCE",Animaux.fr
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="France",Animaux.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941673&extension=ts&play_token=2uC9OrXiX7
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="FRANCE",Animaux.fr
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="France",Animaux.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941674&extension=ts&play_token=fCjQTH8Clu
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="FRANCE",Animaux.fr
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux.fr" tvg-logo="" group-title="France",Animaux.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941675&extension=ts&play_token=bEEyHoTEV2
-#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="FRANCE",Chasse et peche.fr
+#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="France",Chasse et peche.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941676&extension=ts&play_token=OCtgZVpf6c
-#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="FRANCE",Chasse et peche.fr
+#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="France",Chasse et peche.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941677&extension=ts&play_token=8b6n7JpUJs
-#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="FRANCE",Chasse et peche.fr
+#EXTINF:-1 tvg-id="Chasse et peche.fr" tvg-name="Chasse et peche.fr" tvg-logo="" group-title="France",Chasse et peche.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941678&extension=ts&play_token=DrnriWOIMF
-#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="FRANCE",Museum.fr
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="France",Museum.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941679&extension=ts&play_token=V9eRnVzPEN
-#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="FRANCE",Museum.fr
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="France",Museum.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941680&extension=ts&play_token=7RgaA02RQA
-#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="FRANCE",Museum.fr
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="Museum.fr" tvg-logo="" group-title="France",Museum.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941681&extension=ts&play_token=8ixm6juv9A
-#EXTINF:-1 tvg-id="Nautical Channel.fr" tvg-name="Nautical Channel.fr" tvg-logo="" group-title="FRANCE",Nautical Channel.fr
+#EXTINF:-1 tvg-id="Nautical Channel.fr" tvg-name="Nautical Channel.fr" tvg-logo="" group-title="France",Nautical Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941686&extension=ts&play_token=QEd09RpziF
-#EXTINF:-1 tvg-id="Nautical Channel.fr" tvg-name="Nautical Channel.fr" tvg-logo="" group-title="FRANCE",Nautical Channel.fr
+#EXTINF:-1 tvg-id="Nautical Channel.fr" tvg-name="Nautical Channel.fr" tvg-logo="" group-title="France",Nautical Channel.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941687&extension=ts&play_token=QMRTqD4i7p
-#EXTINF:-1 tvg-id="8 Mont-Blanc.fr" tvg-name="8 Mont-Blanc.fr" tvg-logo="" group-title="FRANCE",8 Mont-Blanc.fr
+#EXTINF:-1 tvg-id="8 Mont-Blanc.fr" tvg-name="8 Mont-Blanc.fr" tvg-logo="" group-title="France",8 Mont-Blanc.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941688&extension=ts&play_token=zokeAaywZf
-#EXTINF:-1 tvg-id="MyZen.tv.fr" tvg-name="MyZen.tv.fr" tvg-logo="" group-title="FRANCE",MyZen.tv.fr
+#EXTINF:-1 tvg-id="MyZen.tv.fr" tvg-name="MyZen.tv.fr" tvg-logo="" group-title="France",MyZen.tv.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941682&extension=ts&play_token=pssa66cbLv
-#EXTINF:0,┃FR┃ MY ZEN NATURE FHD
+#EXTINF:-1 group-title="Autres",┃FR┃ MY ZEN NATURE FHD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941684&extension=ts&play_token=xLIPqt6w1D
-#EXTINF:0,┃FR┃ MY ZEN NATURE HD
+#EXTINF:-1 group-title="Autres",┃FR┃ MY ZEN NATURE HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941685&extension=ts&play_token=oayjPqOSZx
-#EXTINF:0,┃FR┃ MY ZEN NATURE
+#EXTINF:-1 group-title="Autres",┃FR┃ MY ZEN NATURE
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941683&extension=ts&play_token=ldJ9lLQ9Ze
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo.fr" tvg-logo="" group-title="FRANCE",Franceinfo.fr
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo.fr" tvg-logo="" group-title="France",Franceinfo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941751&extension=ts&play_token=rCsdK255Qq
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo.fr" tvg-logo="" group-title="FRANCE",Franceinfo.fr
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo.fr" tvg-logo="" group-title="France",Franceinfo.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941752&extension=ts&play_token=pplyJnm5eT
-#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="FRANCE",France 24.fr
+#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="France",France 24.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941753&extension=ts&play_token=E7iuRzlEpR
-#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="FRANCE",France 24.fr
+#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="France",France 24.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941754&extension=ts&play_token=0PuLyJhC5d
-#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="FRANCE",France 24.fr
+#EXTINF:-1 tvg-id="France 24.fr" tvg-name="France 24.fr" tvg-logo="" group-title="France",France 24.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941755&extension=ts&play_token=AA1YAKQUle
-#EXTINF:0,┃FR┃ EURONEWS FRENCH FHD
+#EXTINF:-1 tvg-id="EuroNews.fr" tvg-name="EuroNews.fr" tvg-logo="" group-title="France",EuroNews.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941758&extension=ts&play_token=ZCJAFkvzPC
-#EXTINF:0,┃FR┃ EURONEWS FRENCH HD
+#EXTINF:-1 tvg-id="EuroNews.fr" tvg-name="EuroNews.fr" tvg-logo="" group-title="France",EuroNews.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941759&extension=ts&play_token=zHSkaLF5Sp
-#EXTINF:0,┃FR┃ EURONEWS FRENCH
+#EXTINF:-1 tvg-id="EuroNews.fr" tvg-name="EuroNews.fr" tvg-logo="" group-title="France",EuroNews.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941760&extension=ts&play_token=J62JcpRs1g
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews.fr" tvg-logo="" group-title="FRANCE",CNews.fr
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews.fr" tvg-logo="" group-title="France",CNews.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941756&extension=ts&play_token=IeNVIxQnPv
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews.fr" tvg-logo="" group-title="FRANCE",CNews.fr
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews.fr" tvg-logo="" group-title="France",CNews.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941757&extension=ts&play_token=B2VNvk4laF
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="FRANCE",i24news.fr
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="France",i24news.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941782&extension=ts&play_token=e4VYCUISzi
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="FRANCE",i24news.fr
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="France",i24news.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941783&extension=ts&play_token=4kOFhIr4TV
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="FRANCE",i24news.fr
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24news.fr" tvg-logo="" group-title="France",i24news.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941784&extension=ts&play_token=TuojVX1WGf
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="FRANCE",LCI.fr
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941776&extension=ts&play_token=wiJvtUYD6s
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="FRANCE",LCI.fr
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941777&extension=ts&play_token=OAJJt9KS3x
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="FRANCE",LCI.fr
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941778&extension=ts&play_token=iu8KOdGLZg
-#EXTINF:0,┃FR┃ LCP FHD
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941779&extension=ts&play_token=3fBbcyYbKx
-#EXTINF:0,┃FR┃ LCP HD
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941780&extension=ts&play_token=SvVXvQTzcd
-#EXTINF:0,┃FR┃ LCP
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI.fr" tvg-logo="" group-title="France",LCI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941781&extension=ts&play_token=Gydmrm2efp
-#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="FRANCE",BFM TV.fr
+#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="France",BFM TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941761&extension=ts&play_token=euzDVS363x
-#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="FRANCE",BFM TV.fr
+#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="France",BFM TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941762&extension=ts&play_token=3bCKSzDRWj
-#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="FRANCE",BFM TV.fr
+#EXTINF:-1 tvg-id="BFM TV.fr" tvg-name="BFM TV.fr" tvg-logo="" group-title="France",BFM TV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941763&extension=ts&play_token=iIKC8MTrOF
-#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="FRANCE",BFM Business.fr
+#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="France",BFM Business.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941764&extension=ts&play_token=WflXzInsq1
-#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="FRANCE",BFM Business.fr
+#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="France",BFM Business.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941765&extension=ts&play_token=Wf6Xh6P61E
-#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="FRANCE",BFM Business.fr
+#EXTINF:-1 tvg-id="BFM Business.fr" tvg-name="BFM Business.fr" tvg-logo="" group-title="France",BFM Business.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941766&extension=ts&play_token=RjsUq3GtDP
-#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="FRANCE",BFM Var.fr
+#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="France",BFM Var.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941767&extension=ts&play_token=W3wrdCnKQN
-#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="FRANCE",BFM Var.fr
+#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="France",BFM Var.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941768&extension=ts&play_token=JWUOeEMrmU
-#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="FRANCE",BFM Var.fr
+#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="France",BFM Var.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941769&extension=ts&play_token=La5H7vR1uh
-#EXTINF:-1 tvg-id="BFM Lyon.fr" tvg-name="BFM Lyon.fr" tvg-logo="" group-title="FRANCE",BFM Lyon.fr
+#EXTINF:-1 tvg-id="BFM Lyon.fr" tvg-name="BFM Lyon.fr" tvg-logo="" group-title="France",BFM Lyon.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941774&extension=ts&play_token=3ZMg0lk2WZ
-#EXTINF:-1 tvg-id="BFM DICI Alpes du Sud.fr" tvg-name="BFM DICI Alpes du Sud.fr" tvg-logo="" group-title="FRANCE",BFM DICI Alpes du Sud.fr
+#EXTINF:-1 tvg-id="BFM DICI Alpes du Sud.fr" tvg-name="BFM DICI Alpes du Sud.fr" tvg-logo="" group-title="France",BFM DICI Alpes du Sud.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941771&extension=ts&play_token=SJpB8QzSA4
-#EXTINF:-1 tvg-id="BFM Cote dAzur.fr" tvg-name="BFM Cote dAzur.fr" tvg-logo="" group-title="FRANCE",BFM Cote dAzur.fr
+#EXTINF:-1 tvg-id="BFM Cote dAzur.fr" tvg-name="BFM Cote dAzur.fr" tvg-logo="" group-title="France",BFM Cote dAzur.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941772&extension=ts&play_token=7N6bHXySPp
-#EXTINF:-1 tvg-id="BFM Grand Lille.fr" tvg-name="BFM Grand Lille.fr" tvg-logo="" group-title="FRANCE",BFM Grand Lille.fr
+#EXTINF:-1 tvg-id="BFM Grand Lille.fr" tvg-name="BFM Grand Lille.fr" tvg-logo="" group-title="France",BFM Grand Lille.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941770&extension=ts&play_token=UcQa3kWOsL
-#EXTINF:-1 tvg-id="BFM DICI Haute-Provence.fr" tvg-name="BFM DICI Haute-Provence.fr" tvg-logo="" group-title="FRANCE",BFM DICI Haute-Provence.fr
+#EXTINF:-1 tvg-id="BFM DICI Haute-Provence.fr" tvg-name="BFM DICI Haute-Provence.fr" tvg-logo="" group-title="France",BFM DICI Haute-Provence.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941775&extension=ts&play_token=ulGAg4Fiai
-#EXTINF:0,┃FR┃ BFM TOULON VAR HD
+#EXTINF:-1 tvg-id="BFM Var.fr" tvg-name="BFM Var.fr" tvg-logo="" group-title="France",BFM Var.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941773&extension=ts&play_token=bJORkPmkJt
-#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="FRANCE",Eurosport 1.fr
+#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="France",Eurosport 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941598&extension=ts&play_token=5K0uu4wxgO
-#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="FRANCE",Eurosport 1.fr
+#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="France",Eurosport 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941596&extension=ts&play_token=RKLI9lVCHt
-#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="FRANCE",Eurosport 1.fr
+#EXTINF:-1 tvg-id="Eurosport 1.fr" tvg-name="Eurosport 1.fr" tvg-logo="" group-title="France",Eurosport 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941600&extension=ts&play_token=jexuZB6bOM
-#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="FRANCE",Eurosport 2.fr
+#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="France",Eurosport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941599&extension=ts&play_token=qeDzyhf0Ex
-#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="FRANCE",Eurosport 2.fr
+#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="France",Eurosport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941597&extension=ts&play_token=MokrSLVT70
-#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="FRANCE",Eurosport 2.fr
+#EXTINF:-1 tvg-id="Eurosport 2.fr" tvg-name="Eurosport 2.fr" tvg-logo="" group-title="France",Eurosport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941601&extension=ts&play_token=M079IxJjl6
-#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="FRANCE",Infosport+.fr
+#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="France",Infosport+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941590&extension=ts&play_token=mfa0HByQNu
-#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="FRANCE",Infosport+.fr
+#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="France",Infosport+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941591&extension=ts&play_token=chwEo862Df
-#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="FRANCE",Infosport+.fr
+#EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+.fr" tvg-logo="" group-title="France",Infosport+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941592&extension=ts&play_token=aondTJ1ruI
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="FRANCE",LEquipe.fr
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="France",LEquipe.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941593&extension=ts&play_token=mUNIjpirqQ
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="FRANCE",LEquipe.fr
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="France",LEquipe.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941594&extension=ts&play_token=p0FlF2pI3K
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="FRANCE",LEquipe.fr
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="LEquipe.fr" tvg-logo="" group-title="France",LEquipe.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941595&extension=ts&play_token=f11BjB9RXY
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="FRANCE",Equidia.fr
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="France",Equidia.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941602&extension=ts&play_token=bgwHfcqp5h
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="FRANCE",Equidia.fr
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="France",Equidia.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941603&extension=ts&play_token=fhtcjUk9nV
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="FRANCE",Equidia.fr
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia.fr" tvg-logo="" group-title="France",Equidia.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941604&extension=ts&play_token=3sC53q5xhh
-#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="FRANCE",Golf+.fr
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="France",Golf+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941605&extension=ts&play_token=fMpfejKZOA
-#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="FRANCE",Golf+.fr
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="France",Golf+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941606&extension=ts&play_token=6loNv2TKG9
-#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="FRANCE",Golf+.fr
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="France",Golf+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941607&extension=ts&play_token=ObS7x8KgWq
-#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="FRANCE",Golf+.fr
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="France",Golf+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941608&extension=ts&play_token=tLbhM1PYyJ
-#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="FRANCE",Golf+.fr
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="Golf+.fr" tvg-logo="" group-title="France",Golf+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941609&extension=ts&play_token=nMgJ8HiRnM
-#EXTINF:-1 tvg-id="Eurosport 360 1.fr" tvg-name="Eurosport 360 1.fr" tvg-logo="" group-title="FRANCE",Eurosport 360 1.fr
+#EXTINF:-1 tvg-id="Eurosport 360 1.fr" tvg-name="Eurosport 360 1.fr" tvg-logo="" group-title="France",Eurosport 360 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941610&extension=ts&play_token=WIEI0rGriU
-#EXTINF:-1 tvg-id="Eurosport 360 2.fr" tvg-name="Eurosport 360 2.fr" tvg-logo="" group-title="FRANCE",Eurosport 360 2.fr
+#EXTINF:-1 tvg-id="Eurosport 360 2.fr" tvg-name="Eurosport 360 2.fr" tvg-logo="" group-title="France",Eurosport 360 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941611&extension=ts&play_token=bRN5HQf3sK
-#EXTINF:-1 tvg-id="Eurosport 360 3.fr" tvg-name="Eurosport 360 3.fr" tvg-logo="" group-title="FRANCE",Eurosport 360 3.fr
+#EXTINF:-1 tvg-id="Eurosport 360 3.fr" tvg-name="Eurosport 360 3.fr" tvg-logo="" group-title="France",Eurosport 360 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941612&extension=ts&play_token=6bhy6YZkf8
-#EXTINF:-1 tvg-id="Eurosport 360 4.fr" tvg-name="Eurosport 360 4.fr" tvg-logo="" group-title="FRANCE",Eurosport 360 4.fr
+#EXTINF:-1 tvg-id="Eurosport 360 4.fr" tvg-name="Eurosport 360 4.fr" tvg-logo="" group-title="France",Eurosport 360 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941613&extension=ts&play_token=40Kc64bNub
-#EXTINF:-1 tvg-id="Eurosport 360 5.fr" tvg-name="Eurosport 360 5.fr" tvg-logo="" group-title="FRANCE",Eurosport 360 5.fr
+#EXTINF:-1 tvg-id="Eurosport 360 5.fr" tvg-name="Eurosport 360 5.fr" tvg-logo="" group-title="France",Eurosport 360 5.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941614&extension=ts&play_token=aLjs2VrirI
-#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="FRANCE",TRACE Sport Stars.fr
+#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="France",TRACE Sport Stars.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941615&extension=ts&play_token=wKXPsVBXFD
-#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="FRANCE",TRACE Sport Stars.fr
+#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="France",TRACE Sport Stars.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941616&extension=ts&play_token=XMynADjSX6
-#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="FRANCE",TRACE Sport Stars.fr
+#EXTINF:-1 tvg-id="TRACE Sport Stars.fr" tvg-name="TRACE Sport Stars.fr" tvg-logo="" group-title="France",TRACE Sport Stars.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941617&extension=ts&play_token=tKSoDWlyBM
-#EXTINF:0,┃FR┃ AUTOMOTO LA CHAINE FHD
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto.fr" tvg-logo="" group-title="France",Automoto.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941618&extension=ts&play_token=QjSmDYpoXy
-#EXTINF:0,┃FR┃ AUTOMOTO LA CHAINE HD
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto.fr" tvg-logo="" group-title="France",Automoto.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941619&extension=ts&play_token=i8aWDUDzG4
-#EXTINF:0,┃FR┃ MOTORVISION HD
+#EXTINF:-1 group-title="Autres",┃FR┃ MOTORVISION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941620&extension=ts&play_token=boKjEyMpPm
-#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="FRANCE",OLTV.fr
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="France",OLTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941623&extension=ts&play_token=Ah5ydpDx4d
-#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="FRANCE",OLTV.fr
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="France",OLTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941621&extension=ts&play_token=TcmnSCUFMj
-#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="FRANCE",OLTV.fr
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OLTV.fr" tvg-logo="" group-title="France",OLTV.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941622&extension=ts&play_token=doqRlLiYph
-#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="FRANCE",Canal+ Foot.fr
+#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="France",Canal+ Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941405&extension=ts&play_token=dpvrkMG0Jf
-#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="FRANCE",Canal+ Foot.fr
+#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="France",Canal+ Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941406&extension=ts&play_token=cvyYKZ7Oh8
-#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="FRANCE",Canal+ Foot.fr
+#EXTINF:-1 tvg-id="Canal+ Foot.fr" tvg-name="Canal+ Foot.fr" tvg-logo="" group-title="France",Canal+ Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941407&extension=ts&play_token=Gagq0LfQv7
-#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport.fr
+#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="France",Canal+ Sport.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941408&extension=ts&play_token=dEKkzzOxJv
-#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport.fr
+#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="France",Canal+ Sport.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941409&extension=ts&play_token=jMB5bV0RJY
-#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport.fr
+#EXTINF:-1 tvg-id="Canal+ Sport.fr" tvg-name="Canal+ Sport.fr" tvg-logo="" group-title="France",Canal+ Sport.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941410&extension=ts&play_token=9kgn1QKXFk
-#EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="Canal+ Sport 360.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport 360.fr
+#EXTINF:-1 tvg-id="Canal 32.fr" tvg-name="Canal 32.fr" tvg-logo="" group-title="France",Canal 32.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941411&extension=ts&play_token=L9bNomVsuy
-#EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="Canal+ Sport 360.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport 360.fr
+#EXTINF:-1 tvg-id="Canal 32.fr" tvg-name="Canal 32.fr" tvg-logo="" group-title="France",Canal 32.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941412&extension=ts&play_token=MnUwfefoHK
-#EXTINF:-1 tvg-id="Canal+ Sport 360.fr" tvg-name="Canal+ Sport 360.fr" tvg-logo="" group-title="FRANCE",Canal+ Sport 360.fr
+#EXTINF:-1 tvg-id="Canal 32.fr" tvg-name="Canal 32.fr" tvg-logo="" group-title="France",Canal 32.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941413&extension=ts&play_token=nFXgdB7F3I
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="FRANCE",Canal+ Premier League.fr
+#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="France",Canal+ Premier League.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941414&extension=ts&play_token=2ghps8VQuU
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="FRANCE",Canal+ Premier League.fr
+#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="France",Canal+ Premier League.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941415&extension=ts&play_token=Vfep2bMuxP
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="FRANCE",Canal+ Premier League.fr
+#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="France",Canal+ Premier League.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941416&extension=ts&play_token=rKoRDY4Brl
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="FRANCE",Canal+ Premier League.fr
+#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="France",Canal+ Premier League.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941625&extension=ts&play_token=kVyifSheZK
-#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="FRANCE",Canal+ Premier League.fr
+#EXTINF:-1 tvg-id="Canal+ Premier League.fr" tvg-name="Canal+ Premier League.fr" tvg-logo="" group-title="France",Canal+ Premier League.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941624&extension=ts&play_token=RXF2eh0iC6
-#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="FRANCE",RMC Sport 2.fr
+#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="France",RMC Sport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941433&extension=ts&play_token=fDH9f75rqg
-#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="RMC Sport 1.fr" tvg-logo="" group-title="FRANCE",RMC Sport 1.fr
+#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="RMC Sport 1.fr" tvg-logo="" group-title="France",RMC Sport 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941434&extension=ts&play_token=QzLMhQyBzu
-#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="RMC Sport 1.fr" tvg-logo="" group-title="FRANCE",RMC Sport 1.fr
+#EXTINF:-1 tvg-id="RMC Sport 1.fr" tvg-name="RMC Sport 1.fr" tvg-logo="" group-title="France",RMC Sport 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941435&extension=ts&play_token=fAr5B4msnh
-#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="FRANCE",RMC Sport 2.fr
+#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="France",RMC Sport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941436&extension=ts&play_token=HAwdyUl6uU
-#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="FRANCE",RMC Sport 2.fr
+#EXTINF:-1 tvg-id="RMC Sport 2.fr" tvg-name="RMC Sport 2.fr" tvg-logo="" group-title="France",RMC Sport 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941437&extension=ts&play_token=pIFrUdJ2cC
-#EXTINF:-1 tvg-id="RMC Sport Live 3.fr" tvg-name="RMC Sport Live 3.fr" tvg-logo="" group-title="FRANCE",RMC Sport Live 3.fr
+#EXTINF:-1 tvg-id="RMC Sport Live 3.fr" tvg-name="RMC Sport Live 3.fr" tvg-logo="" group-title="France",RMC Sport Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941438&extension=ts&play_token=VnSGef7Q8r
-#EXTINF:-1 tvg-id="RMC Sport Live 3.fr" tvg-name="RMC Sport Live 3.fr" tvg-logo="" group-title="FRANCE",RMC Sport Live 3.fr
+#EXTINF:-1 tvg-id="RMC Sport Live 3.fr" tvg-name="RMC Sport Live 3.fr" tvg-logo="" group-title="France",RMC Sport Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941439&extension=ts&play_token=JcOM6434yy
-#EXTINF:-1 tvg-id="RMC Sport Live 4.fr" tvg-name="RMC Sport Live 4.fr" tvg-logo="" group-title="FRANCE",RMC Sport Live 4.fr
+#EXTINF:-1 tvg-id="RMC Sport Live 4.fr" tvg-name="RMC Sport Live 4.fr" tvg-logo="" group-title="France",RMC Sport Live 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941440&extension=ts&play_token=Cja8250S2y
-#EXTINF:-1 tvg-id="RMC Sport Live 4.fr" tvg-name="RMC Sport Live 4.fr" tvg-logo="" group-title="FRANCE",RMC Sport Live 4.fr
+#EXTINF:-1 tvg-id="RMC Sport Live 4.fr" tvg-name="RMC Sport Live 4.fr" tvg-logo="" group-title="France",RMC Sport Live 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941441&extension=ts&play_token=Am4VimcCRA
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 1.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="France",beIN SPORTS 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941417&extension=ts&play_token=DULP8wIl9T
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 1.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="France",beIN SPORTS 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941418&extension=ts&play_token=KfCJmsWqFE
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 1.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="France",beIN SPORTS 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941419&extension=ts&play_token=BvXPCVJnD3
-#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 2.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="France",beIN SPORTS 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941420&extension=ts&play_token=yEmiRu0n0y
-#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 2.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="France",beIN SPORTS 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941421&extension=ts&play_token=IaC0F4Jvor
-#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 2.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="France",beIN SPORTS 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941422&extension=ts&play_token=XcFY7ZGZ9H
-#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 3.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="France",beIN SPORTS 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941423&extension=ts&play_token=vtPZ4AynMV
-#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 3.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="France",beIN SPORTS 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941424&extension=ts&play_token=5leLQ2ybvQ
-#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS 3.fr
+#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-name="beIN SPORTS 3.fr" tvg-logo="" group-title="France",beIN SPORTS 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941425&extension=ts&play_token=SkysRKihWW
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-name="beIN SPORTS MAX 4.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 4.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-name="beIN SPORTS MAX 4.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 4.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941426&extension=ts&play_token=B2TDYFxu31
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-name="beIN SPORTS MAX 5.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 5.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-name="beIN SPORTS MAX 5.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 5.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941427&extension=ts&play_token=LTNnRkfIpl
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-name="beIN SPORTS MAX 6.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 6.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-name="beIN SPORTS MAX 6.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 6.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941428&extension=ts&play_token=8RnYVpkm55
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-name="beIN SPORTS MAX 7.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 7.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-name="beIN SPORTS MAX 7.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 7.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941429&extension=ts&play_token=uFxFRrLvtj
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-name="beIN SPORTS MAX 8.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 8.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-name="beIN SPORTS MAX 8.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 8.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941430&extension=ts&play_token=SI07CpynAr
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-name="beIN SPORTS MAX 9.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 9.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-name="beIN SPORTS MAX 9.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 9.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941431&extension=ts&play_token=ZNJtNZzYDH
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-name="beIN SPORTS MAX 10.fr" tvg-logo="" group-title="FRANCE",beIN SPORTS MAX 10.fr
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-name="beIN SPORTS MAX 10.fr" tvg-logo="" group-title="France",beIN SPORTS MAX 10.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941432&extension=ts&play_token=HZGqsEqbLA
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941442&extension=ts&play_token=rjkcCBnezA
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941461&extension=ts&play_token=oX8AlRyKfV
-#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 2.fr
+#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="France",Canal+ Live 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941443&extension=ts&play_token=k0uPKbHsBI
-#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 2.fr
+#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="France",Canal+ Live 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941462&extension=ts&play_token=XYq64e0tIC
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941444&extension=ts&play_token=JRa8uysAlo
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941463&extension=ts&play_token=SAOXg2rkSG
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941445&extension=ts&play_token=xefXg3Mw2j
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941464&extension=ts&play_token=MAI2pSLC2g
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941446&extension=ts&play_token=xwXFROMrbl
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941465&extension=ts&play_token=vbf3xTZf6E
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941447&extension=ts&play_token=wF1t23TZ6x
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941466&extension=ts&play_token=AeywQUQz5p
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941448&extension=ts&play_token=nrMWvE4S5J
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941467&extension=ts&play_token=sTzBRz1ECC
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941449&extension=ts&play_token=wjlhD6InMd
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941468&extension=ts&play_token=g7V2DSupKb
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941450&extension=ts&play_token=HtjHLwZaIG
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941469&extension=ts&play_token=QvWdqWXvBL
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941451&extension=ts&play_token=Sfs8rUmN1n
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941470&extension=ts&play_token=PIEOhouwju
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941452&extension=ts&play_token=PkBEXuy7UO
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941471&extension=ts&play_token=kh9tPmz2qo
-#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 2.fr
+#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="France",Canal+ Live 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941453&extension=ts&play_token=VJ0dmv0N6I
-#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 2.fr
+#EXTINF:-1 tvg-id="Canal+ Live 2.fr" tvg-name="Canal+ Live 2.fr" tvg-logo="" group-title="France",Canal+ Live 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941472&extension=ts&play_token=1GbAzTvHFY
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941454&extension=ts&play_token=YqcoU22FjC
-#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 3.fr
+#EXTINF:-1 tvg-id="Canal+ Live 3.fr" tvg-name="Canal+ Live 3.fr" tvg-logo="" group-title="France",Canal+ Live 3.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941473&extension=ts&play_token=irTnQPZ2eD
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941455&extension=ts&play_token=FBEyepNnpM
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941474&extension=ts&play_token=yKRt0rGnOe
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941456&extension=ts&play_token=KhBd8VLN55
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941475&extension=ts&play_token=Cwo4LcewMO
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941457&extension=ts&play_token=VVCNZctKW7
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941476&extension=ts&play_token=Rj52EE6A84
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941458&extension=ts&play_token=2yh67zmRR5
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941477&extension=ts&play_token=ITHRbiS00P
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941459&extension=ts&play_token=ivMh521nqI
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941478&extension=ts&play_token=D3UUQ18mTC
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941460&extension=ts&play_token=wPYH5owzHD
-#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="FRANCE",Canal+ Live 1.fr
+#EXTINF:-1 tvg-id="Canal+ Live 1.fr" tvg-name="Canal+ Live 1.fr" tvg-logo="" group-title="France",Canal+ Live 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941479&extension=ts&play_token=DLsl1nXQFZ
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 1 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258786&extension=ts&play_token=aSRdGPgmJU
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 2 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258787&extension=ts&play_token=EsnK1VaLdT
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 3 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258788&extension=ts&play_token=qK9M4RBu7Q
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 4 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258789&extension=ts&play_token=AYgan1Ezwv
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 5 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258790&extension=ts&play_token=IuvigpN0Rh
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 6 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258791&extension=ts&play_token=fofdUAkkXo
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 7 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258792&extension=ts&play_token=SRsmmg8X73
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 8 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258793&extension=ts&play_token=xuS4U1M7D1
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 9 |
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258794&extension=ts&play_token=2bjDbkQfvl
-#EXTINF:0,┃FR┃ LIGUE 1+ - PPV 10 |
+#EXTINF:-1 group-title="Autres",┃FR┃ LIGUE 1+ - PPV 10 |
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258795&extension=ts&play_token=ipvlIR9kTT
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258813&extension=ts&play_token=mZbJqjwadk
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258814&extension=ts&play_token=8fxqSRfgzv
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258815&extension=ts&play_token=IJg083yWqT
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258816&extension=ts&play_token=9BOp4ZAhMQ
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258817&extension=ts&play_token=fJmLCc2AY1
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258818&extension=ts&play_token=iTREyARzMn
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258819&extension=ts&play_token=13ezcmWw6Q
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258820&extension=ts&play_token=eai13Z2fPV
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258821&extension=ts&play_token=lDV2BRqkV9
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258822&extension=ts&play_token=QBuqYgmSP2
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258823&extension=ts&play_token=UrLjbegCdA
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258824&extension=ts&play_token=EKGZxgg206
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258825&extension=ts&play_token=RZAGgx46cM
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258826&extension=ts&play_token=e9cVr4gB4o
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258827&extension=ts&play_token=beR68QJeUy
-#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="FRANCE",Ligue 1+.fr
+#EXTINF:-1 tvg-id="Ligue 1+.fr" tvg-name="Ligue 1+.fr" tvg-logo="" group-title="France",Ligue 1+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1258828&extension=ts&play_token=FfMCY0xkYe
-#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="FRANCE",DAZN.fr
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="France",DAZN.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941565&extension=ts&play_token=ACzOkNTkNK
-#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="FRANCE",DAZN.fr
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="France",DAZN.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941566&extension=ts&play_token=j00KY19Ay2
-#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="FRANCE",DAZN.fr
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="France",DAZN.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941567&extension=ts&play_token=Hf3Cjq27AL
-#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="FRANCE",DAZN.fr
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="France",DAZN.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941568&extension=ts&play_token=Yp9HOuefpH
-#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="FRANCE",DAZN.fr
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN.fr" tvg-logo="" group-title="France",DAZN.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941569&extension=ts&play_token=c0Dga1CSzI
-#EXTINF:0,┃FR┃ DAZEN EVENT 1 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941589&extension=ts&play_token=PBEEJy22tc
-#EXTINF:0,┃FR┃ DAZEN EVENT 2 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941588&extension=ts&play_token=OPbKqsuEiX
-#EXTINF:0,┃FR┃ DAZEN EVENT 3 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941587&extension=ts&play_token=mr5qZILd4x
-#EXTINF:0,┃FR┃ DAZEN EVENT 4 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941586&extension=ts&play_token=EKylcsvXgQ
-#EXTINF:0,┃FR┃ DAZEN EVENT 5 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941585&extension=ts&play_token=F4MeFyHIE9
-#EXTINF:0,┃FR┃ DAZEN EVENT 6 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941584&extension=ts&play_token=ySc0Cpt56a
-#EXTINF:0,┃FR┃ DAZEN EVENT 7 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 7 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941583&extension=ts&play_token=huYOey6ec4
-#EXTINF:0,┃FR┃ DAZEN EVENT 8 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 8 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941582&extension=ts&play_token=sKMZ3rhXOw
-#EXTINF:0,┃FR┃ DAZEN EVENT 9 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 9 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941581&extension=ts&play_token=lVDEgSXIiR
-#EXTINF:0,┃FR┃ DAZEN EVENT 10 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 10 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941580&extension=ts&play_token=pfk00OLcDw
-#EXTINF:0,┃FR┃ DAZEN EVENT 11 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 11 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941579&extension=ts&play_token=7Nq5qAuCpg
-#EXTINF:0,┃FR┃ DAZEN EVENT 12 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 12 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941578&extension=ts&play_token=ztze8Ej9yn
-#EXTINF:0,┃FR┃ DAZEN EVENT 13 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 13 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941577&extension=ts&play_token=CrGHomqEFY
-#EXTINF:0,┃FR┃ DAZEN EVENT 14 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 14 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941576&extension=ts&play_token=cEi47PnF3k
-#EXTINF:0,┃FR┃ DAZEN EVENT 15 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 15 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941575&extension=ts&play_token=uWuCTVlN25
-#EXTINF:0,┃FR┃ DAZEN EVENT 16 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 16 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941574&extension=ts&play_token=9lbOkdCNKX
-#EXTINF:0,┃FR┃ DAZEN EVENT 17 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 17 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941573&extension=ts&play_token=VotuhSnZDM
-#EXTINF:0,┃FR┃ DAZEN EVENT 18 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 18 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941572&extension=ts&play_token=FWAZoSTba7
-#EXTINF:0,┃FR┃ DAZEN EVENT 19 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 19 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941571&extension=ts&play_token=SS2xXtvn3V
-#EXTINF:0,┃FR┃ DAZEN EVENT 20 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ DAZEN EVENT 20 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941570&extension=ts&play_token=CZnCiY1jDv
-#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="FRANCE",L’Equipe Live Foot.fr
+#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="France",L’Equipe Live Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941522&extension=ts&play_token=SXu8cEpfog
-#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="FRANCE",L’Equipe Live Foot.fr
+#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="France",L’Equipe Live Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941626&extension=ts&play_token=5lGHgHbjqi
-#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="FRANCE",L’Equipe Live Foot.fr
+#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="France",L’Equipe Live Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941523&extension=ts&play_token=dL0fb7EjDA
-#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="FRANCE",L’Equipe Live Foot.fr
+#EXTINF:-1 tvg-id="L’Equipe Live Foot.fr" tvg-name="L’Equipe Live Foot.fr" tvg-logo="" group-title="France",L’Equipe Live Foot.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941627&extension=ts&play_token=Gy679rDxUk
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 3 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 3 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941524&extension=ts&play_token=i4pNd95qN9
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 3 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 3 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941525&extension=ts&play_token=q0S1uHdQRA
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 4 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 4 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941526&extension=ts&play_token=fj1QWs0AER
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 4 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 4 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941527&extension=ts&play_token=IuZo5JLG31
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 5 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 5 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941528&extension=ts&play_token=1b09DiziOj
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 5 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 5 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941529&extension=ts&play_token=NC4v1OecBm
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 6 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 6 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941530&extension=ts&play_token=3FbuM5X9x1
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 6 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 6 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941531&extension=ts&play_token=3m2z2HQaRA
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 7 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 7 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941532&extension=ts&play_token=G8N0jhlPEA
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 7 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 7 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941533&extension=ts&play_token=foyqzWdLx2
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 8 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 8 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941534&extension=ts&play_token=jtqX5ouKLW
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 8 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 8 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941535&extension=ts&play_token=CshxiOQk50
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 9 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 9 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941536&extension=ts&play_token=bd5q6TvEd5
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 9 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 9 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941537&extension=ts&play_token=rxgOovq9Gy
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 10 FHD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 10 FHD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941538&extension=ts&play_token=6Mvc8fhrqS
-#EXTINF:0,┃FR┃ L'ÉQUIPE LIVE 10 HD (EVENT ONLY)
+#EXTINF:-1 group-title="Autres",┃FR┃ L'ÉQUIPE LIVE 10 HD (EVENT ONLY)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941539&extension=ts&play_token=nKooRkrFnu
-#EXTINF:0,┃FR┃ SWEEK LIVE 1 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 1 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941514&extension=ts&play_token=zN7xdERUiy
-#EXTINF:0,┃FR┃ SWEEK LIVE 2 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 2 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941515&extension=ts&play_token=uFPbpvwQgI
-#EXTINF:0,┃FR┃ SWEEK LIVE 3 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 3 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941516&extension=ts&play_token=8595syO8ww
-#EXTINF:0,┃FR┃ SWEEK LIVE 4 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 4 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941517&extension=ts&play_token=fCHlxPZFr9
-#EXTINF:0,┃FR┃ SWEEK LIVE 5 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 5 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941518&extension=ts&play_token=eydMQTVjO6
-#EXTINF:0,┃FR┃ SWEEK LIVE 6 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 6 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941519&extension=ts&play_token=ZfYUd1O1hn
-#EXTINF:0,┃FR┃ SWEEK LIVE 7 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 7 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941520&extension=ts&play_token=FLHkwnfpBx
-#EXTINF:0,┃FR┃ SWEEK LIVE 8 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ SWEEK LIVE 8 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941521&extension=ts&play_token=jrukYmt7uJ
-#EXTINF:0,┃FR┃ FFF TV 1
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941540&extension=ts&play_token=2Qa5KgBr66
-#EXTINF:0,┃FR┃ FFF TV 2
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941541&extension=ts&play_token=I2YDcIm1wE
-#EXTINF:0,┃FR┃ FFF TV 3
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941542&extension=ts&play_token=GGfpq5U1m5
-#EXTINF:0,┃FR┃ FFF TV 4
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941543&extension=ts&play_token=vj9Bz2p6jn
-#EXTINF:0,┃FR┃ FFF TV 5
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941544&extension=ts&play_token=nYCfXxxceO
-#EXTINF:0,┃FR┃ FFF TV 6
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 6
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941545&extension=ts&play_token=eQhgamnLTt
-#EXTINF:0,┃FR┃ FFF TV 7
+#EXTINF:-1 group-title="Autres",┃FR┃ FFF TV 7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941546&extension=ts&play_token=qdPQJ7ZZDJ
-#EXTINF:0,┃FR┃ FANSEAT EVENT 1 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 1 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941547&extension=ts&play_token=O9KaUodzLG
-#EXTINF:0,┃FR┃ FANSEAT EVENT 2 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 2 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941548&extension=ts&play_token=5VKPDiyxF1
-#EXTINF:0,┃FR┃ FANSEAT EVENT 3 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 3 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941549&extension=ts&play_token=k9rshUNlTB
-#EXTINF:0,┃FR┃ FANSEAT EVENT 4 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 4 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941550&extension=ts&play_token=vx3VD3Izug
-#EXTINF:0,┃FR┃ FANSEAT EVENT 5 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 5 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941551&extension=ts&play_token=V4CstNnAVl
-#EXTINF:0,┃FR┃ FANSEAT EVENT 6 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 6 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941552&extension=ts&play_token=rLxQlDcMxt
-#EXTINF:0,┃FR┃ FANSEAT EVENT 7 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 7 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941553&extension=ts&play_token=oErlKisVXy
-#EXTINF:0,┃FR┃ FANSEAT EVENT 8 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 8 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941554&extension=ts&play_token=BBqu1mwPSP
-#EXTINF:0,┃FR┃ FANSEAT EVENT 9 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 9 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941555&extension=ts&play_token=jJiN6WYHeN
-#EXTINF:0,┃FR┃ FANSEAT EVENT 10 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 10 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941556&extension=ts&play_token=I3nIUteZDi
-#EXTINF:0,┃FR┃ FANSEAT EVENT 11 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 11 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941557&extension=ts&play_token=tYPqBTry0m
-#EXTINF:0,┃FR┃ FANSEAT EVENT 12 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 12 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941558&extension=ts&play_token=7dR5WB9WEJ
-#EXTINF:0,┃FR┃ FANSEAT EVENT 13 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 13 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941559&extension=ts&play_token=Gpm96c8XmY
-#EXTINF:0,┃FR┃ FANSEAT EVENT 14 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 14 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941560&extension=ts&play_token=BDxtlpOoB4
-#EXTINF:0,┃FR┃ FANSEAT EVENT 15 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 15 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941561&extension=ts&play_token=PJDrVaaWma
-#EXTINF:0,┃FR┃ FANSEAT EVENT 16 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 16 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941562&extension=ts&play_token=LwoBPsMNwU
-#EXTINF:0,┃FR┃ FANSEAT EVENT 17 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 17 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941563&extension=ts&play_token=rpCayFTNvi
-#EXTINF:0,┃FR┃ FANSEAT EVENT 18 FHD (ONLY EVENT)
+#EXTINF:-1 group-title="Autres",┃FR┃ FANSEAT EVENT 18 FHD (ONLY EVENT)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=941564&extension=ts&play_token=tH9niIHkmu
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942021&extension=ts&play_token=qmN2uD5Omg
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942020&extension=ts&play_token=EsqiZo9VRg
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942019&extension=ts&play_token=hWPNuZSlxS
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942018&extension=ts&play_token=mxQJuCziT1
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942017&extension=ts&play_token=Jx4pMCFDai
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942016&extension=ts&play_token=nyxoXoWWR0
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942015&extension=ts&play_token=ev7piSVZfO
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942014&extension=ts&play_token=3Xs6HSZ23I
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942013&extension=ts&play_token=4bnmBS2OUB
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942012&extension=ts&play_token=NvSRJHp2al
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942011&extension=ts&play_token=O5doL248Sb
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942010&extension=ts&play_token=W5ZPo7HIZV
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942009&extension=ts&play_token=tlg23Fo6FI
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942008&extension=ts&play_token=zHjYfhD9vx
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942007&extension=ts&play_token=q95vDoYQED
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942006&extension=ts&play_token=AENeoQ0RwG
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942005&extension=ts&play_token=M9luUE9G4n
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942004&extension=ts&play_token=95gL7iewfz
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942003&extension=ts&play_token=gv5gwiv91w
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942002&extension=ts&play_token=DkyAw1cpvj
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE INFO HD
+#EXTINF:-1 group-title="Autres",┃FR┃ NETFLIX PREMIERE INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942043&extension=ts&play_token=32KtiihxDj
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 1 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942042&extension=ts&play_token=R3cg2wbOcK
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 2 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942041&extension=ts&play_token=4n7i4mCjCx
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 3 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942040&extension=ts&play_token=ZwHkCGRojj
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 4 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942039&extension=ts&play_token=M50j1Alwfz
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 5 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942038&extension=ts&play_token=7OAfuBy0A4
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 6 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942037&extension=ts&play_token=ZvOuQwO61D
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 7 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942036&extension=ts&play_token=3YvQuaFSCs
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 8 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942035&extension=ts&play_token=pEe1ZgQPVE
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 9 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942034&extension=ts&play_token=t1cCqVu3yg
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 10 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942033&extension=ts&play_token=eOs2UgJMpw
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 11 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942032&extension=ts&play_token=zJGYOItqKi
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 12 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942031&extension=ts&play_token=Ln1iq4p1Z2
-#EXTINF:0,┃FR┃ NETFLIX PREMIERE 13 HD
+#EXTINF:-1 tvg-id="Cine+ Premier.fr" tvg-name="Cine+ Premier.fr" tvg-logo="" group-title="France",Cine+ Premier.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942030&extension=ts&play_token=0sQnUUr1u3
-#EXTINF:0,┃FR┃ PLAY SUPER INFO HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER INFO HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942062&extension=ts&play_token=KIsri4t4zK
-#EXTINF:0,┃FR┃ PLAY SUPER 1 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942061&extension=ts&play_token=QK2Yv9dLoL
-#EXTINF:0,┃FR┃ PLAY SUPER 2 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942060&extension=ts&play_token=uYRI85QLtP
-#EXTINF:0,┃FR┃ PLAY SUPER 3 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942059&extension=ts&play_token=HUoDCle53z
-#EXTINF:0,┃FR┃ PLAY SUPER 4 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 4 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942058&extension=ts&play_token=HJhrG8hgck
-#EXTINF:0,┃FR┃ PLAY SUPER 5 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 5 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942057&extension=ts&play_token=p94QzHYp3f
-#EXTINF:0,┃FR┃ PLAY SUPER 6 HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY SUPER 6 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942056&extension=ts&play_token=Q3pFtL2hJo
-#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="FRANCE",Canal+ Box Office.fr
+#EXTINF:-1 tvg-id="Canal+ Box Office.fr" tvg-name="Canal+ Box Office.fr" tvg-logo="" group-title="France",Canal+ Box Office.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942054&extension=ts&play_token=XL3zAaAy04
-#EXTINF:0,┃FR┃ PLAY NETFLIX HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY NETFLIX HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942053&extension=ts&play_token=Uq0q005Lxv
-#EXTINF:0,┃FR┃ PLAY ACTION HD
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942050&extension=ts&play_token=uwpXdl2uvx
-#EXTINF:0,┃FR┃ PLAY ACTION +1 HD
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action.fr" tvg-logo="" group-title="France",Action.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942049&extension=ts&play_token=3J1oYa9gDY
-#EXTINF:0,┃FR┃ PLAY BEST OF HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY BEST OF HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942052&extension=ts&play_token=j4fx9QT3nu
-#EXTINF:0,┃FR┃ PLAY COMEDIE HD
+#EXTINF:-1 tvg-id="Comedie+.fr" tvg-name="Comedie+.fr" tvg-logo="" group-title="France",Comedie+.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942048&extension=ts&play_token=9yY8cBfImL
-#EXTINF:0,┃FR┃ PLAY EMOTION HD
+#EXTINF:-1 tvg-id="Cine+ Emotion.fr" tvg-name="Cine+ Emotion.fr" tvg-logo="" group-title="France",Cine+ Emotion.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942046&extension=ts&play_token=ERDoqOZNzD
-#EXTINF:0,┃FR┃ PLAY HORREUR HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY HORREUR HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942047&extension=ts&play_token=G1lmzQbASg
-#EXTINF:0,┃FR┃ PLAY COLLECTION HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY COLLECTION HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942051&extension=ts&play_token=fRaKD1LgG8
-#EXTINF:0,┃FR┃ PLAY EXTRA HD
+#EXTINF:-1 group-title="Autres",┃FR┃ PLAY EXTRA HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=942055&extension=ts&play_token=uQcRLwd77a
-#EXTINF:0,┃BE┃ LA UNE HD
+#EXTINF:-1 tvg-id="La Une.fr" tvg-name="La Une.fr" tvg-logo="" group-title="France",La Une.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1420249&extension=ts&play_token=qLhmwqn57K
-#EXTINF:0,┃BE┃ LA TRIOS HD
+#EXTINF:-1 tvg-id="La Trois.fr" tvg-name="La Trois.fr" tvg-logo="" group-title="France",La Trois.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1420251&extension=ts&play_token=EyCRzVvVvc
-#EXTINF:0,┃BE┃ RTL CLUB HD
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1420252&extension=ts&play_token=Jmzgfkv6yF
-#EXTINF:0,┃BE┃ RTL PLUG HD
+#EXTINF:-1 group-title="Autres",┃BE┃ RTL PLUG HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=1420253&extension=ts&play_token=tbuVJ4iPZN
-#EXTINF:0,┃BE┃ LA UNE 4K
+#EXTINF:-1 tvg-id="La Une.fr" tvg-name="La Une.fr" tvg-logo="" group-title="France",La Une.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368562&extension=ts&play_token=Z10GnSyswW
-#EXTINF:0,┃BE┃ TIPIK 4K
+#EXTINF:-1 tvg-id="Tipik.fr" tvg-name="Tipik.fr" tvg-logo="" group-title="France",Tipik.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368564&extension=ts&play_token=YvhFSFmjPS
-#EXTINF:0,┃BE┃ LA TRIOS 4K
+#EXTINF:-1 tvg-id="La Trois.fr" tvg-name="La Trois.fr" tvg-logo="" group-title="France",La Trois.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368566&extension=ts&play_token=Ct7mVNdMHx
-#EXTINF:-1 tvg-id="RTL TVI.fr" tvg-name="RTL TVI.fr" tvg-logo="" group-title="FRANCE",RTL TVI.fr
+#EXTINF:-1 tvg-id="RTL TVI.fr" tvg-name="RTL TVI.fr" tvg-logo="" group-title="France",RTL TVI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368568&extension=ts&play_token=B6mJSmLnhA
-#EXTINF:0,┃BE┃ RTL CLUB 4K
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368570&extension=ts&play_token=w38bl83oz6
-#EXTINF:0,┃BE┃ RTL PLUG 4K
+#EXTINF:-1 group-title="Autres",┃BE┃ RTL PLUG 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368572&extension=ts&play_token=R6IqxG7FN5
-#EXTINF:0,┃BE┃ AB1 4K
+#EXTINF:-1 tvg-id="BE 1.fr" tvg-name="BE 1.fr" tvg-logo="" group-title="France",BE 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368574&extension=ts&play_token=waiULCxLCb
-#EXTINF:0,┃BE┃ AB3 4K
+#EXTINF:-1 group-title="Autres",┃BE┃ AB3 4K
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368576&extension=ts&play_token=xlf0DX8QS8
-#EXTINF:0,┃BE┃ AB XPLORE 4K
+#EXTINF:-1 tvg-id="ABXPLORE.fr" tvg-name="ABXPLORE.fr" tvg-logo="" group-title="France",ABXPLORE.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368586&extension=ts&play_token=tYRHiOBlGx
-#EXTINF:0,┃BE┃ LA UNE HD
+#EXTINF:-1 tvg-id="La Une.fr" tvg-name="La Une.fr" tvg-logo="" group-title="France",La Une.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368563&extension=ts&play_token=20atpt6VnX
-#EXTINF:0,┃BE┃ TIPIK HD
+#EXTINF:-1 tvg-id="Tipik.fr" tvg-name="Tipik.fr" tvg-logo="" group-title="France",Tipik.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368565&extension=ts&play_token=Yms8pG2WK9
-#EXTINF:0,┃BE┃ LA TRIOS HD
+#EXTINF:-1 tvg-id="La Trois.fr" tvg-name="La Trois.fr" tvg-logo="" group-title="France",La Trois.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368567&extension=ts&play_token=xyuARhfSHb
-#EXTINF:-1 tvg-id="RTL TVI.fr" tvg-name="RTL TVI.fr" tvg-logo="" group-title="FRANCE",RTL TVI.fr
+#EXTINF:-1 tvg-id="RTL TVI.fr" tvg-name="RTL TVI.fr" tvg-logo="" group-title="France",RTL TVI.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368569&extension=ts&play_token=io0hOucMcm
-#EXTINF:0,┃BE┃ RTL CLUB HD
+#EXTINF:-1 tvg-id="Serie Club.fr" tvg-name="Serie Club.fr" tvg-logo="" group-title="France",Serie Club.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368571&extension=ts&play_token=BAaSaca2k9
-#EXTINF:0,┃BE┃ RTL PLUG HD
+#EXTINF:-1 group-title="Autres",┃BE┃ RTL PLUG HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368573&extension=ts&play_token=t3IQFjI3hb
-#EXTINF:0,┃BE┃ AB1 HD
+#EXTINF:-1 tvg-id="BE 1.fr" tvg-name="BE 1.fr" tvg-logo="" group-title="France",BE 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368575&extension=ts&play_token=e85nLXisRZ
-#EXTINF:0,┃BE┃ AB3 HD
+#EXTINF:-1 group-title="Autres",┃BE┃ AB3 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368577&extension=ts&play_token=KyLipoJZ2u
-#EXTINF:0,┃BE┃PLAY SPORTS 1 4K (FR)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="France",beIN SPORTS 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368594&extension=ts&play_token=Hkulex40w6
-#EXTINF:0,┃BE┃ PLAY SPORTS 1 HD (FR)
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-name="beIN SPORTS 1.fr" tvg-logo="" group-title="France",beIN SPORTS 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368595&extension=ts&play_token=QYuBMuPYGa
-#EXTINF:0,┃BE┃ PLAY SPORTS 2 4K (FR)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="France",beIN SPORTS 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368596&extension=ts&play_token=ELUArU7m5O
-#EXTINF:0,┃BE┃ PLAY SPORTS 2 HD (FR)
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-name="beIN SPORTS 2.fr" tvg-logo="" group-title="France",beIN SPORTS 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368597&extension=ts&play_token=lOuH691Wbb
-#EXTINF:-1 tvg-id="VOOsport World 1.fr" tvg-name="VOOsport World 1.fr" tvg-logo="" group-title="FRANCE",VOOsport World 1.fr
+#EXTINF:-1 tvg-id="VOOsport World 1.fr" tvg-name="VOOsport World 1.fr" tvg-logo="" group-title="France",VOOsport World 1.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368600&extension=ts&play_token=ctIlpdC0jM
-#EXTINF:-1 tvg-id="VOOsport World 2.fr" tvg-name="VOOsport World 2.fr" tvg-logo="" group-title="FRANCE",VOOsport World 2.fr
+#EXTINF:-1 tvg-id="VOOsport World 2.fr" tvg-name="VOOsport World 2.fr" tvg-logo="" group-title="France",VOOsport World 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368601&extension=ts&play_token=3qKB4panBi
-#EXTINF:-1 tvg-id="VOOsport World 2.fr" tvg-name="VOOsport World 2.fr" tvg-logo="" group-title="FRANCE",VOOsport World 2.fr
+#EXTINF:-1 tvg-id="VOOsport World 2.fr" tvg-name="VOOsport World 2.fr" tvg-logo="" group-title="France",VOOsport World 2.fr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368602&extension=ts&play_token=XEAWBiq0sF
-#EXTINF:0,┃BE┃ AUTOMOTO SPORT 4K (FR)
+#EXTINF:-1 group-title="Autres",┃BE┃ AUTOMOTO SPORT 4K (FR)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:34:DE&stream=368603&extension=ts&play_token=blljvrgrwF
